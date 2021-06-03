@@ -1,0 +1,2071 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catechism for the use of His Royal Highness, the Prince of Wales</title>
+            <author>Anderdon, Christopher.</author>
+         </titleStmt>
+         <extent>Approx. 94KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17085</idno><idno type="EEBO-CITATION">13053347</idno>
+  <idno type="VID">199356</idno>
+  <idno type="EEBO-PROQUEST">2248514956</idno>
+  
+            <idno type="STC">Wing A3077</idno>
+            <idno type="OCLC">13053347</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 406:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catechism for the use of His Royal Highness, the Prince of Wales</title>
+                  <author>Anderdon, Christopher.</author>
+               </titleStmt>
+               <extent>[12], 96 p.   </extent>
+               <publicationStmt>
+                  <publisher>To be sold at Thomas Moette ...,</publisher>
+                  <pubPlace>At Paris :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The prayers (p. 25-96) have parallel text in English and Latin.</note>
+                  <note>Signed: C.A., S.J.</note>
+                  <note>Written by Christopher S.J. Anderdon. Cf. Halkett &amp; Laing (2nd. ed.).</note>
+                  <note>Title page vignette.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Prayer-books and devotions --  English.</term>
+               <term type="corporate_name">Catholic Church --  Prayer-books and devotions --  Latin.</term>
+               <term type="corporate_name">Catholic Church --  Catechisms --  English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199356:1"/>
+            <pb facs="tcp:199356:1"/>
+            <p>A CATECHISM FOR THE USE OF HIS ROYAL HIGHNESS THE PRINCE OF WALES</p>
+            <p>AT PARIS, To be sold at THOMAS MOETTE, at the foot of the street of the Harpe. M.DC.XCII</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:199356:2"/>
+            <pb facs="tcp:199356:2"/>
+            <head>TO HIS ROYAL HIGHNESS THE PRINCE OF WALLES</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR,</salute>
+            </opener>
+            <p>I esteem it a singular happiness, to be the first, who presents to your
+<pb facs="tcp:199356:3"/>
+               <hi>ROYAL HIGHNESS,</hi> these first principles of learning, virtue and Christian doctrine. That natu<g ref="char:EOLhyphen"/>ral vivacity, these not faint glimmerings, but lively flashes, of that rising light, and dawning day of reason, far more advan<g ref="char:EOLhyphen"/>ced in your <hi>ROYAL HIGHNESS,</hi> then is ordinary in those of your age, with that firmness of me<g ref="char:EOLhyphen"/>mory, able already to repeat exactly long prayers in latin, are certainly fore-runners of a great wit, and a sound judge<g ref="char:EOLhyphen"/>ment. To Which if piety and solid vertue be joined, as we have all reason to hope they will, both by the inclinations you shew al<g ref="char:EOLhyphen"/>ready, and the judicious care your Worthy Lady Governess
+<pb facs="tcp:199356:3"/> takes of your education, we can<g ref="char:EOLhyphen"/>not but be comforted with the hopes of having one day in your R. H<seg rend="sup">SS</seg>'<seg rend="sup">S</seg> person as glorious a Prince as ever Great Brittain saw. Hasten then most Gracious Prince, and even surpass as you have done hitherto our expecta<g ref="char:EOLhyphen"/>tion. Exhibit to the world by those charming draughts of your most sweet and comely face, by those handsom features of body, but much more by the noble qualitys of your mind, exhibit, I say, a perfect resemblance of your Royal progenitors. But above all hasten to learn their rare and unparalleled virtues, and to grow not only in grace and favour before men, accor<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:199356:4"/> to the expression of holy scripture, but also in the sight of God. Make hast to learn these first principles of Christian do<g ref="char:EOLhyphen"/>ctrine and cheif mysterys of Faith, that you may the better come to know, love and serve your sovereign lord, to whom alone we ow you, and to whom you ow all. Proceed then most hopefull Prince as you begin, and lift up daily to God those innocent hands of yours: the more innocent they are the more victo<g ref="char:EOLhyphen"/>rious they will be. Seek first the Kingdom of heaven, and crowns, scepters, riches, prospe<g ref="char:EOLhyphen"/>rity and even a sudden and glorious restoration of their sacred Majestys, followed by a
+<pb facs="tcp:199356:4"/> long and happy reign, <hi>haec om<g ref="char:EOLhyphen"/>nia,</hi> all these, according to Christs promise, and much more, <hi>adjicientur,</hi> shal be given from above. And to your self after a long happy and prosperous reign a numerous posterity to cary down your name vertues and glory to future ages. These are the most hearty wishes of him, who is with a most profound respect,</p>
+            <closer>
+               <signed>Your R. H<seg rend="sup">SS</seg>'<seg rend="sup">S</seg>. <hi>most humble most obedient and most dutifull servant and Beadsman C. A, S. J.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="alphabet">
+            <pb facs="tcp:199356:5"/>
+            <pb facs="tcp:199356:5"/>
+            
+            <p rend="roman">A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, W, V, X, Y, Z.</p>
+            <p rend="roman">a, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, s, s, t, u, w, v, x, y, z, {us}, ā, ē, ī, ō, ū, æ, œ, ct, &amp;, ﬀ, ﬁ, ﬃ, ﬂ, ﬄ, m̄, n̄, ℟, si, sl, ss, ssi, st, ℣.</p>
+            <p rend="italic">A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, W, V, X, Y, Z.</p>
+            <p rend="italic">a, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, s, s, t, w, v, u, x, y, z, ā, ē, ī, ō, ū, æ, œ, ct, &amp;, ﬀ, ﬁ, ﬃ, ﬂ, ﬄ, si, sl, ss, ssi, sp, st.</p>
+            <pb facs="tcp:199356:6"/>
+            <p>ab eb ib ob ub</p>
+            <p>ac ec ic oc uc</p>
+            <p>ad ed id od ud</p>
+            <p>af ef if of uf</p>
+            <p>ag eg ig og ug</p>
+            <p>ah eh ih oh</p>
+            <p>al el il ol ul</p>
+            <p>am em im om um</p>
+            <p>an en in on un</p>
+            <p>ap ep ip op up</p>
+            <p>ar er ir or ur</p>
+            <p>as es is os us</p>
+            <p>at et it ot ut</p>
+            <p>ba be bi bo bu</p>
+            <p>ca ce ci co cu</p>
+            <p>da de di do du</p>
+            <p>fa fe fi fo fu</p>
+            <p>ga ge gi go gu</p>
+            <p>ha he hi ho hu</p>
+            <p>ja je ji jo ju</p>
+            <pb facs="tcp:199356:6"/>
+            <p>Ka Ke Ki Ko Ku</p>
+            <p>la le li lo lu</p>
+            <p>ma me mi mo mu</p>
+            <p>na ne ni no nu</p>
+            <p>pa pe pi po pu</p>
+            <p>qua que qui quo quu</p>
+            <p>ra re ri ro ru</p>
+            <p>sa se si so su</p>
+            <p>ta te ti to tu</p>
+            <p>wa we wi wo</p>
+            <p>va ve vi vo vu</p>
+            <p>bla ble bli blo blu</p>
+            <p>bra bre bri bro bru</p>
+            <p>cla cle cli clo clu</p>
+            <p>cra cre cri cro cru</p>
+            <p>dra dre dri dro dru</p>
+            <p>fla fle fli flo flu</p>
+            <p>fra fre fri fro fru</p>
+            <p>gra gre gri gro gru</p>
+            <p>pla ple pli plo plu</p>
+            <pb facs="tcp:199356:7"/>
+            <p>pra pre pri pro pru</p>
+            <p>tra tre tri tro tru</p>
+            <p>sca sce sci sco scu</p>
+            <p>sla sle sli slo slu</p>
+            <p>spa spe spi spo spu</p>
+            <p>sta ste sti sto stu</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:199356:7"/>
+            <head>AN ABRIDGEMENT OF THE CHEIF MYSTERYS OF FAITH.</head>
+            <p>QUestion. <hi>Who created you and brought you in to the world?</hi>
+            </p>
+            <p>
+               <hi>Answer.</hi> God.</p>
+            <p>Q. <hi>For what end did he create you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> For to Know, loue, and serve him in this life, and to glorify him eternally in the life to come.</p>
+            <pb n="2" facs="tcp:199356:8"/>
+            <p>Q. <hi>What is God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Spirit, omnipotent, most perfect, eternall, infinite, creator, of heaven and earth, and sove<g ref="char:EOLhyphen"/>reign lord of all things.</p>
+            <p>Q. <hi>Where is God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In heaven, on earth, and in all places</p>
+            <p>Q. <hi>How many persons is there in God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three.</p>
+            <p>Q. <hi>Who are these three persons?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The father, son, and holy Ghost: and these three persons we call the Blissed Trinity.</p>
+            <p>Q. <hi>The father is he God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <p>Q. <hi>The son is he God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <p>Q. <hi>The holy Ghost is he God?</hi>
+            </p>
+            <pb facs="tcp:199356:8"/>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <p>Q. <hi>Are these then three Gods?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. for altho they be three distinct persons yet these three persons are but one God because they have but one deity or god<g ref="char:EOLhyphen"/>head.</p>
+            <p>Q. <hi>Which of the three persons is the greatest, the eldest, and the most powerfull?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are all three, as great, as old, and as powerfull one as an other.</p>
+            <p>Q. <hi>Which of the three persons by taking and assuming humain nature did become man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The second person, who is god the son.</p>
+            <p>Q. <hi>Did the father and the holy Ghost also become man?</hi>
+            </p>
+            <pb facs="tcp:199356:9"/>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>What is that, to become man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's to take a soul and a body as we have.</p>
+            <p>Q. <hi>Where did the son of God take this soul and this body?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the sacred womb of the most glorious Virgin Mary by the operation of the holy Ghost.</p>
+            <p>Q. <hi>How do you call the second person thus made man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Christ Jesus who is both to<g ref="char:EOLhyphen"/>gether god and man.</p>
+            <p>Q. <hi>Whey do you call him Christ that is to say anoynted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because he is anoynted King of Kings and sovereign lord of all the world.</p>
+            <p>Q. <hi>Whey is he called Iesus that is to say saviour?</hi>
+            </p>
+            <pb n="5" facs="tcp:199356:9"/>
+            <p>
+               <hi>A.</hi> Because he became man to redeem and save the world.</p>
+            <p>Q. <hi>Our saviour as man had he a father upon earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. but as he was begotten in heaven as god of a father without a mother; so was he born on earth as man, of a mother without a father.</p>
+            <p>Q. <hi>Has he been always God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <p>Q. <hi>Has he been always man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. but only since the time he was conceived in the womb of the Blissed Virgin.</p>
+            <p>Q. <hi>When was our saviour con<g ref="char:EOLhyphen"/>ceived in the Womb of our Blissed Lady?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The five and twinty day of march: which is called the feast
+<pb n="6" facs="tcp:199356:10"/> of the Anonciation, because that day the Angel Gabriel did an<g ref="char:EOLhyphen"/>nounce to the Blissed Virgin, the happy news of the incarnation of Christ, and of her being chosen mother of God.</p>
+            <p>Q. <hi>When was he born and where?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> On Christenmass night in the stable of Betheleem.</p>
+            <p>Q. <hi>When was the name of Iesus given him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> On the day of his circumcision eight days after his birth; because that day he began to shed his blood for our salvation.</p>
+            <p>Q. <hi>How long did our saviour live upon earh?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three and thirty years and some months.</p>
+            <p>Q. <hi>On what day died he?</hi>
+            </p>
+            <pb n="7" facs="tcp:199356:10"/>
+            <p>
+               <hi>A.</hi> On good friday.</p>
+            <p>Q. <hi>How did he die?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A most cruel death, which he suffered most willingly for the love of man, being after many pains and torments barbarously nailed by the Jews upon a cross.</p>
+            <p>Q. <hi>Where went he after his death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His soul went to limbo to free the holy fathers who were there and his body was laid in the se<g ref="char:EOLhyphen"/>pulcher.</p>
+            <p>Q. <hi>What became then his divi<g ref="char:EOLhyphen"/>nity?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It never was separated nether from his soul nor from his body.</p>
+            <p>Q. <hi>What day did he rise again from the dead?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> On easter day, the third day after his death.</p>
+            <pb n="8" facs="tcp:199356:11"/>
+            <p>Q. <hi>Will all other men Likewise rise again?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes. all both good and bad will rise again in their own bodys, to appeare before the tribunal of God and receive that dread<g ref="char:EOLhyphen"/>full sentence to be pronounced at the last day of judgement.</p>
+            <p>Q. <hi>What will become of men after the last judgement?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The just will go to heauen in body and soul to reign there, and be eternaly happy with Christ Jesus and the wiked wil descend in to hell for to burne there in body and soul and be tormented for a whole eternity.</p>
+            <p>Q. <hi>Is there not a third place where some souls go after their death?</hi>
+            </p>
+            <pb n="9" facs="tcp:199356:11"/>
+            <p>
+               <hi>Ans.</hi> Yes there is Purgatory where these souls go who die in the grace of god, but have not fully satisfied to his justice for the pains due to their sins.</p>
+            <p>
+               <hi>Q. Whey do you believe these mysterys?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because God has revealed them.</p>
+            <p>
+               <hi>Q. To whom has he revealed them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To his Church by whom they are proposed to us to be believed.</p>
+            <p>
+               <hi>Q. What is the Church?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Church is the congre<g ref="char:EOLhyphen"/>gation of the faithfull who make profession of one and the same faith in Christ participating in the same sacraments, under the
+<pb n="10" facs="tcp:199356:12"/> obedience of lawfull Pasteurs, who are duely subordinated to the Pope, as visible head of the Church, to whom Christ Iesus has given supreame power and jurisdiction in the person of saint Peter, who's successor he is.</p>
+            <p>
+               <hi>Q. Can this Church erre?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No because she is governed by the holy Ghost.</p>
+            <p>
+               <hi>Q. What is the communion of Saints?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the bond and union of charity and the participation of merites among the faithfull.</p>
+            <p>
+               <hi>Q. On what day did our saviour mount in to heaven?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> On Ascension day, forty days after his resurrection.</p>
+            <p>
+               <hi>Q. On what day sent he down the
+<pb n="11" facs="tcp:199356:12"/> holy Ghost on his Apostles?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> On Pentecoste or whitsun<g ref="char:EOLhyphen"/>day.</p>
+            <p>
+               <hi>Q. Whey did Christ Iesus come in to the world and accomplish all these mysterys?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> For to deliver us from the bondage and slavery of sin and the devil, and to merite for us grace in this life, and glory in the life to come.</p>
+            <p>
+               <hi>Q. Seing Christ Iesus did mount in to heaven, he is then no more upon earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes: but he is and that after a most particular maner in the Blissed sacrament of the alter.</p>
+            <p>
+               <hi>Q. What is the Blissed sacrament of the alter?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's a sacrament that contains
+<pb n="12" facs="tcp:199356:13"/> the true and reall body of our Saviour Christ Iesus with his blood, his soul, and his divinity under the species or appearance of bread and win.</p>
+            <p>
+               <hi>Q. What do you call species or appearance of bread and win?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We call so what appears to our senses, as the whitness and roundness of the bread, the red<g ref="char:EOLhyphen"/>ness of the win, and the tast of them both, so that we do not see the body and blood of Christ, but only these accidents and species that cover them.</p>
+            <p>
+               <hi>Q. With these visible species and accidents do's not also the bread and win remaine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. but the bread is changed in the body of our saviour and
+<pb n="13" facs="tcp:199356:13"/> the win in his blood.</p>
+            <p>
+               <hi>Q. By what vertue is this wonder<g ref="char:EOLhyphen"/>full changement wrought?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the vertue of the most powerfull and sacred words of Christ Iesus, that the Preist pro<g ref="char:EOLhyphen"/>nounces at the consecration of the Mass.</p>
+            <p>
+               <hi>Q. What is that you call the Mass.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the unbloody sacrifice of the body and blood of Christ, offered by the preist in the name of the Church, for to represente and perpetuate the bloody sacri<g ref="char:EOLhyphen"/>fice of Iesus Christ to his father upon the cross.</p>
+            <p>
+               <hi>Q. Is our Saviour in all the consecrated hosties?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes he is as well in the least
+<pb n="14" facs="tcp:199356:14"/> as in the biggest.</p>
+            <p>
+               <hi>Q. When the hostie is broken, is also the body of our saviour broken?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. its only the accidents and exteriour species of bread that is broken.</p>
+            <p>
+               <hi>Q. Is the body of our saviour in the hostie a living body?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes it is a living body: for our saviour haveing now a glorious and impassible body, it can be no more obnoxious to death.</p>
+            <p>
+               <hi>Q. Is the blood of Christ also with his body?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and they can be no more separate one from an other so who ever receives the one re<g ref="char:EOLhyphen"/>ceives likewise the other.</p>
+            <p>
+               <hi>Q. What de we adore in the cha<g ref="char:EOLhyphen"/>lice
+<pb n="15" facs="tcp:199356:14"/> after consecration at Mass.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The self-same precious blood of Christ Iesus that was spilt upon the cross.</p>
+            <p>
+               <hi>Q. Is there but the blood alone of our saviour in the chalice?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. Christ is whole and in<g ref="char:EOLhyphen"/>tire in the chalice: to wit his blood, his body, his soul and his divinity, and so is he also in the sacred hostie.</p>
+            <p>
+               <hi>Q. Who receives our saviour in the sacrament receives he also the Father and the holy Ghost?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; because where ever God the son is there is the father and the holy Ghost.</p>
+            <p>
+               <hi>Q. Doeth our saviour leave heaven for to be present in the Blissed sacrament?</hi>
+            </p>
+            <pb n="16" facs="tcp:199356:15"/>
+            <p>
+               <hi>A.</hi> No he is both in heaven and on earth at the same time.</p>
+            <p>
+               <hi>Q. How can so many great wonders be wrought?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the omnipotency of God.</p>
+            <p>
+               <hi>Q. How instituted this divin sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Our saviour himself at his last supper with his Apostles on holy thursday the night before his passion.</p>
+            <p>
+               <hi>Q. What preparation is requisite for to approache Worthily to this sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We ought to approache to it with a great respect, a lively faith, a profound humility, a true love of god, full of charity for our neighbour, and our soul
+<pb n="17" facs="tcp:199356:15"/> pure and neat from all kind of mortal sin.</p>
+            <p>
+               <hi>Q. Who is conscious to himself to have committed a mortal sin what is he oblidged to do before he approache to the sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He must of necessity make a good confession, otherwise he would commit a haynous sacri<g ref="char:EOLhyphen"/>ledge and make a communion like that of Iudas.</p>
+            <p>Q. <hi>What must one do to make a good confession?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. You must examine your conscience.</p>
+            <p n="2">2. You must have a true sorrow and regreat for haveing offen<g ref="char:EOLhyphen"/>ded God.</p>
+            <p n="3">3. You must make a good pur<g ref="char:EOLhyphen"/>pose and a strong resolution
+<pb n="18" facs="tcp:199356:16"/> never to returne again to your former sins, and to avoid the occasions.</p>
+            <p n="4">4. Confesse sincerly and inti<g ref="char:EOLhyphen"/>rely all your sins to a Preist that is approved and has power to absolve.</p>
+            <p n="5">5. You must resolve to fulfill punctualy the penance that your confessor will impose upon you.</p>
+            <p>
+               <hi>Q. How many sacraments is there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is seven, Baptisme, Confirmation, Eucharist, Pe<g ref="char:EOLhyphen"/>nance, Extreme unction, holy Order, Matrimony.</p>
+            <p>
+               <hi>Q. What is Baptisme?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's a sacrament, that blots out all sins, both original and actuel makes us Christians, and
+<pb n="19" facs="tcp:199356:16"/> imposes upon us the obligation to keep the commandements of God, and of the Church, and to live according to the maximes of the Gospel.</p>
+            <p>
+               <hi>Q. What is Confirmation?</hi>
+            </p>
+            <p>
+               <hi>A,</hi> It's a sacrament by which we receive the holy Ghost, by whom we are inabled to confess couragiously the faith and name of Iesus Christ.</p>
+            <p>
+               <hi>Q What is the Eucharist?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a sacrament contai<g ref="char:EOLhyphen"/>neing the true body and blood of Christ, which is distributed, and given unto us as the true food and norrishment of our souls.</p>
+            <p>
+               <hi>Q. What is Penance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's a sacrament by which
+<pb n="20" facs="tcp:199356:17"/> we recieve, being duely dispo<g ref="char:EOLhyphen"/>sed, absolution and remission of all sins committed since Baptisme.</p>
+            <p>
+               <hi>Q. What is Extream-Vnction?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's a sacrament that streng<g ref="char:EOLhyphen"/>thens a soul against the assaults of the devil, at the hour of death, remitts what may be resting of sin to the sick person who re<g ref="char:EOLhyphen"/>ceives it worthily, restores health of body, if expedient for his sal<g ref="char:EOLhyphen"/>vation, and gives grace to die well.</p>
+            <p>Q. <hi>What is holy Order?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's a sacrament that consti<g ref="char:EOLhyphen"/>tutes ministers in the Church, and gives them power and grace to exercise their sacred functions.</p>
+            <p>Q. <hi>What is Matrimony?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's a sacrament conferring
+<pb n="21" facs="tcp:199356:17"/> grace to maried persons to live holily, and to bread up their childreen in the fear of God.</p>
+            <p>Q. <hi>What are all Christians oblidged to do to gain heaven?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are oblidged to Keep the commandements of God and the Church.</p>
+            <p>Q. <hi>How many are the comman<g ref="char:EOLhyphen"/>dements of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ten.</p>
+            <div type="commandments">
+               <head>The ten Commandements.</head>
+               <lg n="1">
+                  <head>I</head>
+                  <l>ONE God alone thou shalt adore:</l>
+                  <l>Thy loue he wholy claims.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Swearing in vain thou shalt ab<g ref="char:EOLhyphen"/>hore,</l>
+                  <l>By his or creatures names.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="22" facs="tcp:199356:18"/>
+                  <head>III.</head>
+                  <l>To sanctify Gods holy day,</l>
+                  <l>Thou praise and thanks shalt give.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>Due honour parents thou shalt pay,</l>
+                  <l>That so thou long mayst live.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>From blood, unspoted keep they hands:</l>
+                  <l>Avoid revengfull thought.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>Fly sins of lust, as God com<g ref="char:EOLhyphen"/>mands,</l>
+                  <l>Vile pleasures too dear bought.</l>
+               </lg>
+               <lg n="7">
+                  <head>VII.</head>
+                  <l>They neighbours goods thou shalt not take,</l>
+                  <l>Nor keep what's not thy own.</l>
+               </lg>
+               <lg n="8">
+                  <pb n="23" facs="tcp:199356:18"/>
+                  <head>VIII.</head>
+                  <l>If thou forswear or lies doest make,</l>
+                  <l>Thy God will on the frown.</l>
+               </lg>
+               <lg n="9">
+                  <head>IX.</head>
+                  <l>Who covets e're his neighbours wife,</l>
+               </lg>
+               <lg n="10">
+                  <head>X.</head>
+                  <l>Or doeth his goods desire:</l>
+                  <l>Will justly by his wiked life,</l>
+                  <l>Deserve eternal fire.</l>
+               </lg>
+            </div>
+            <div type="commandments">
+               <head>The Commandements of the Church.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>ON feasts and sundays holy Mass</l>
+                  <l>Be always sure to hear.</l>
+               </lg>
+               <lg n="2">
+                  <head>II</head>
+                  <l>With sorrow too thy sins confess,</l>
+                  <l>At least once in the year.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="24" facs="tcp:199356:19"/>
+                  <head>III.</head>
+                  <l>Christ's body thou shalt duly take,</l>
+                  <l>At least at Easter time.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>Whatever feast the Church doth make,</l>
+                  <l>To break would be a crime.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>Lent, Vigils and all Ember days,</l>
+                  <l>By fasting make compleat.</l>
+                  <l>On fridays, flesh and saturdays</l>
+                  <l>The Church forbids to eat.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>Mariage thou shalt not solem<g ref="char:EOLhyphen"/>nize,</l>
+                  <l>But when the Church allows.</l>
+               </lg>
+               <lg n="7">
+                  <head>VII.</head>
+                  <l>Never refuse to pay just tiths.</l>
+                  <l>Let Church men have their dues.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb n="25" facs="tcp:199356:19"/>
+            <head>PRAYERS FOR THE MORNING.</head>
+            <div xml:lang="eng" type="version">
+               <p>In the name of the Father, and of the Son, and of the Ho<g ref="char:EOLhyphen"/>ly Ghost. Amen.</p>
+               <p>Blessed be the Ho<g ref="char:EOLhyphen"/>ly and individed Trinity, now and for ever and world without end. Amen.</p>
+               <p>℣. Open O lord my lips.</p>
+               <p>℟. And my mouth shall declare thy praise.</p>
+               <p>℣. Glory be to the Father, and to the Son, and to the
+<pb n="26" facs="tcp:199356:20"/> Holy Ghost.</p>
+               <p>℟. As it was in the beginning, and now and ever, and world without end Amen.</p>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>In Nomine Pa<g ref="char:EOLhyphen"/>tris, &amp; Filii, &amp; Spiritus sancti. Amen.</p>
+               <p>Benedicta sit san<g ref="char:EOLhyphen"/>cta &amp; individua Trinitas, nunc &amp; semper, &amp; per infi<g ref="char:EOLhyphen"/>nita saecula saeculo<g ref="char:EOLhyphen"/>rum. Amen.</p>
+               <p>℣. Domine labia mea aperies.</p>
+               <p>℟. Et os meum annunciabit lau<g ref="char:EOLhyphen"/>dem tuam.</p>
+               <p>℣. Gloria Patri, &amp; Filio, &amp; Spiri<g ref="char:EOLhyphen"/>tui sancto.</p>
+               <pb n="26" facs="tcp:199356:20"/>
+               <p>℟. Sicut erat in principio, &amp; nunc &amp; semper, &amp; in secula saeculorum. Amen.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>The Lords Prayer.</head>
+            <div xml:lang="eng" type="version">
+               <p>OUr Father who art in heaven, hallowed be thy name, thy kingdom come, thy will be done on earth, as it is in heaven: give us this day our dayly Bread, and forgive us our trespasses, as we forgive them that trespas against us; and lead us not into temptation, but deliver us from e<g ref="char:EOLhyphen"/>vill. Amen.</p>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>PAter noster, qui es in caelis, sanctificetur nomen tuum. Adveniat re<g ref="char:EOLhyphen"/>gnum tuum. Fiat voluntas tua sicut in caelo &amp; in terra. Panem nostrum quo<g ref="char:EOLhyphen"/>tidianum da nobis hodie. Et dimitte nobis debita nostra sicut &amp; nos dimit<g ref="char:EOLhyphen"/>timus debitoribus nostris. Et ne nos inducas in tenta<g ref="char:EOLhyphen"/>tionem. Sed libera nos à malo. Amen.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>The Salutation of the Angel.</head>
+            <div xml:lang="eng" type="version">
+               <p>HAil Mary, full of grace, our
+<pb n="27" facs="tcp:199356:20"/> Lord is with thee: blessed art thou a<g ref="char:EOLhyphen"/>mong women, and blessed is the fruit of thy womb, JESUS. Holy Mary, mother of God, pray for us sinners now and in the hour of our death. Amen.</p>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>AVe Maria gra<g ref="char:EOLhyphen"/>tia plena, Do<g ref="char:EOLhyphen"/>minus
+<pb n="27" facs="tcp:199356:20"/> tecum, be<g ref="char:EOLhyphen"/>nedicta tu in mu<g ref="char:EOLhyphen"/>lieribus, &amp; bene<g ref="char:EOLhyphen"/>dictus fructus ven<g ref="char:EOLhyphen"/>tris tui Jesus.</p>
+               <p>Sancta Maria mater Dei, ora pro nobis peccatoribus, nunc &amp; in hora mortis nostrae. Amen.</p>
+            </div>
+         </div>
+         <div type="creed">
+            <head>The Symbole of the Apostles.</head>
+            <div xml:lang="eng" type="version">
+               <p>I Believe in God, the Father Al<g ref="char:EOLhyphen"/>mighty, Creator of Heaven and Earth: and in JESUS-CHRIST his only son our Lord; Who was conceived by the Holy Ghost; born of the Virgin Mary; suffered under Pon<g ref="char:EOLhyphen"/>tius Pilate was Cru<g ref="char:EOLhyphen"/>cified, dead and buried. He des<g ref="char:EOLhyphen"/>cended into hell.
+<pb n="28" facs="tcp:199356:21"/> The third day he rose again from the dead; He as<g ref="char:EOLhyphen"/>cended in to hea<g ref="char:EOLhyphen"/>ven, sitteth at the right hand of God the Father Al<g ref="char:EOLhyphen"/>mighty: from then<g ref="char:EOLhyphen"/>ce he shall come to judge the living and the dead: I be<g ref="char:EOLhyphen"/>lieve in the Holy Ghost; the holy Catholick Church, the communion of Saints; the forgi<g ref="char:EOLhyphen"/>veness of sins; the Resurrection of the Body: and Life E<g ref="char:EOLhyphen"/>verlasting. Amen.</p>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>CRedo in Deum Patrem omni<g ref="char:EOLhyphen"/>potentem, Creato<g ref="char:EOLhyphen"/>rem coeli &amp; terrae, &amp; in Jesum Chri<g ref="char:EOLhyphen"/>stum filium ejus u<g ref="char:EOLhyphen"/>nicum, Dominum nostrum: qui con<g ref="char:EOLhyphen"/>ceptus est de Spiritu sancto, natus ex Maria Virgine, pas<g ref="char:EOLhyphen"/>sus sub Pontio Pi<g ref="char:EOLhyphen"/>lato, crucifixus, mortuus &amp; sepul<g ref="char:EOLhyphen"/>tus: descendit ad
+<pb n="28" facs="tcp:199356:21"/> inferos: tertiâ die resurrexit à mor<g ref="char:EOLhyphen"/>tuis: ascendit ad caelos: sedet ad dex<g ref="char:EOLhyphen"/>teram Dei Patris omnipotentis: inde venturus est judi<g ref="char:EOLhyphen"/>care vivos &amp; mor<g ref="char:EOLhyphen"/>tuos. Credo in Spi<g ref="char:EOLhyphen"/>ritum sanctum, sanctam Ecclesiam Catholicam, san<g ref="char:EOLhyphen"/>ctorum communio<g ref="char:EOLhyphen"/>nem, remissionem peccatorum, carnis resurrectionem, &amp; vitam aeternam. Amen.</p>
+            </div>
+         </div>
+         <div type="confession">
+            <head>A General Confession.</head>
+            <div xml:lang="eng" type="version">
+               <p>I Confesse to Al<g ref="char:EOLhyphen"/>mighty God to the B. Virgin Mary, to B. Saint John Ba<g ref="char:EOLhyphen"/>ptist, to the holy Apostles S. Peter
+<pb n="29" facs="tcp:199356:21"/> and S. Paul, and to all the Saints; that I have grievously sinned in Thought, Word and Deed. Through my fault, through my fault, through my excee<g ref="char:EOLhyphen"/>ding great fault. Therfore I beseech the B. Virgin Mary, the B. Saint Mi<g ref="char:EOLhyphen"/>chael the Archan<g ref="char:EOLhyphen"/>gel, the B. Saint John Baptist, the holy Apostles Saint Peter and Saint Paul, and all the Saints to pray to God for me.</p>
+               <p>Almighty God have mercy on us, and our sins forgi<g ref="char:EOLhyphen"/>ven, bring us to life everlasting. Amen.</p>
+               <pb n="30" facs="tcp:199356:22"/>
+               <p>The Almighty and mercifull Lord give us pardon, absolu<g ref="char:EOLhyphen"/>tion, and remission of our sins. Amen.</p>
+               <p>℣. Wouchsafe ô Lord.</p>
+               <p>℟. To keep us this day without sin.</p>
+               <p>℣. Have mercy on us, ô Lord.</p>
+               <p>℟. Have mercy on us.</p>
+               <p>℣. Let thy mercy, ô Lord, be on us.</p>
+               <p>℟. As our hope is in Thee.</p>
+               <p>℣. Lord hear my prayer.</p>
+               <p>℟. And let my sup<g ref="char:EOLhyphen"/>plication come to thee.</p>
+               <div type="part">
+                  <pb n="31" facs="tcp:199356:22"/>
+                  <head>Let us pray.</head>
+                  <p>O Lord God Al<g ref="char:EOLhyphen"/>mighty, who hast brought us to the beginning of this day: save us by thy power: that we fall not this day in<g ref="char:EOLhyphen"/>to sin, but that our words, thoughts, and works may be directed to execute thy justice, through our Lord JESUS-CHRIST. Amen.</p>
+               </div>
+               <div type="part">
+                  <head>Let us pray.</head>
+                  <p>VOuchsafe O Lord God king of heaven and earth to direct and sanctify, rule and governe this day, our souls and bodys senses, words and
+<pb n="32" facs="tcp:199356:23"/> actions in your law, and in the works of your commande<g ref="char:EOLhyphen"/>ments that we may be saved and deli<g ref="char:EOLhyphen"/>vered here and for ever through your help and assistance: O Saviour of the world who livest ād reignest through<g ref="char:EOLhyphen"/>out all ages. Amen.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>COnfiteor Deo omnipotenti, beatae Mariae semper Virgini, beato Mi<g ref="char:EOLhyphen"/>chaëli Archangelo, beato Joanni Ba<g ref="char:EOLhyphen"/>ptistae,
+<pb n="29" facs="tcp:199356:21"/> sanctis Apo<g ref="char:EOLhyphen"/>stolis Petro &amp; Pau<g ref="char:EOLhyphen"/>lo, &amp; omnibus san<g ref="char:EOLhyphen"/>ctis; quia peccavi nimis cogitatione, verbo &amp; opere, mea culpa, mea culpa, mea maxi<g ref="char:EOLhyphen"/>ma culpa. Ideo pre<g ref="char:EOLhyphen"/>cor beatam Mariam semper Virginem, beatum Michaelem Archangelum, beatum Joannem Baptistam, san<g ref="char:EOLhyphen"/>ctos Apostolos Pe<g ref="char:EOLhyphen"/>trum &amp; Pau<g ref="char:EOLhyphen"/>lum &amp; omnes san<g ref="char:EOLhyphen"/>ctos orare pro me ad Dominum Deum nostrum. Amen.</p>
+               <p>Misereatur nostri omnipotens Deus, &amp; dimissis pecca<g ref="char:EOLhyphen"/>tis nostris, perdu<g ref="char:EOLhyphen"/>cat nos ad vitam aeternam. Amen.</p>
+               <pb n="30" facs="tcp:199356:22"/>
+               <p>Indulgentiam, absolutionem, &amp; remissionem om<g ref="char:EOLhyphen"/>nium peccatorum nostrorum tribuat nobis omnipotens &amp; misericors Do<g ref="char:EOLhyphen"/>minus. Amen.</p>
+               <p>℣. Dignare Domi<g ref="char:EOLhyphen"/>ne die isto.</p>
+               <p>℟. Sine peccato nos custodire.</p>
+               <p>℣. Miserere nostri Domine.</p>
+               <p>℟. Miserere nostri.</p>
+               <p>℣. Fiat misericor<g ref="char:EOLhyphen"/>dia, tua Domine, super nos.</p>
+               <p>℟. Quemadmodum speravimus in te.</p>
+               <p>℣. Domine exaudi orationem meam.</p>
+               <p>℟. Et clamor meus ad te veniat.</p>
+               <div type="part">
+                  <pb n="31" facs="tcp:199356:22"/>
+                  <head>Oremus.</head>
+                  <p>DOmine Deus omni potens, qui ad principium hujus diei nos per<g ref="char:EOLhyphen"/>venire fecisti, tua nos hodie salva virtute, ut in hac die ad nullum de<g ref="char:EOLhyphen"/>clinemus peccatum, sed semper ad tuam justitiam facien<g ref="char:EOLhyphen"/>dam nostra proce<g ref="char:EOLhyphen"/>dant eloquia, diri<g ref="char:EOLhyphen"/>gantur cogitationes &amp; opera. Per Chri<g ref="char:EOLhyphen"/>stum Dominum no<g ref="char:EOLhyphen"/>strum. Amen.</p>
+               </div>
+               <div type="part">
+                  <head>Oremus.</head>
+                  <p>DIrigere, &amp; sanctificare, regere, &amp; guber<g ref="char:EOLhyphen"/>nare dignare Do<g ref="char:EOLhyphen"/>mine Deus Rex coeli &amp; terrae, ho<g ref="char:EOLhyphen"/>die corda, &amp; cor<g ref="char:EOLhyphen"/>pora nostra, sensus,
+<pb n="32" facs="tcp:199356:23"/> sermones, &amp; actus nostros in lege tua, &amp; in operibus man<g ref="char:EOLhyphen"/>datorum tuorum, ut hîc, &amp; in aeter<g ref="char:EOLhyphen"/>num, te auxilian<g ref="char:EOLhyphen"/>te, salvi &amp; liberi esse mereamur, Sal<g ref="char:EOLhyphen"/>vator mundi, Qui vivis &amp; regnas in saecula saeculorum. Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayers">
+            <head>
+               <hi>OTHER PRAYERS</hi> to be said according to the times and every on's devotion. <hi>A Prayer for the whole famely.</hi>
+            </head>
+            <div xml:lang="eng" type="version">
+               <p>℣. We adore you O Christ, and bless you.</p>
+               <p>℟. Because by your holy cross you have redeemed the world.</p>
+               <p>℣. Who has suffered for us.</p>
+               <pb n="33" facs="tcp:199356:23"/>
+               <p>℟. Have mercy on us O Lord.</p>
+               <div type="part">
+                  <head>Let us pray.</head>
+                  <p>CAst we beseech you O Lord the eyes of your mercy upon this your fa<g ref="char:EOLhyphen"/>mely for which our saviour Christ Jesus was delivered in to the hands of the wicked, and did undergo the tor<g ref="char:EOLhyphen"/>ment of the Cross, who with you liveth and reigneth in unity of the Holy Ghost through all ages. Amen.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>℣. Adoramus te, Christe, &amp; bene<g ref="char:EOLhyphen"/>dicimus tibi.</p>
+               <p>℟. Quia per san<g ref="char:EOLhyphen"/>ctam crucem tuam redemisti mundum.</p>
+               <p>℣. Qui passus es pro nobis.</p>
+               <pb n="33" facs="tcp:199356:23"/>
+               <p>℟. Domine mise<g ref="char:EOLhyphen"/>rere nobis.</p>
+               <div type="part">
+                  <head>Oremus.</head>
+                  <p>REspice quaesu<g ref="char:EOLhyphen"/>mus, Domine, super hanc fami<g ref="char:EOLhyphen"/>liam tuam, pro qua Dominus noster Je<g ref="char:EOLhyphen"/>sus Christus non dubitavit manibus tradi nocentium, &amp; crucis subire tor<g ref="char:EOLhyphen"/>mentum. Qui te<g ref="char:EOLhyphen"/>cum vivit &amp; re<g ref="char:EOLhyphen"/>gnat in unitate Spiritus sancti Deus. Per omnia saecula saeculorum. Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>PRAYER to be said the morning, at midday and at night in thanKsgiving for the benefit the Incarnation.</head>
+            <div xml:lang="eng" type="version">
+               <p>THe Angel of the Lord decla<g ref="char:EOLhyphen"/>red to Mary, and
+<pb n="34" facs="tcp:199356:24"/> she conceived of the Holy Ghost. Hail Mary &amp;c.</p>
+               <div type="part">
+                  <p>BEhold the hand maid of our Lord, be it done to me according to your word. Hail Ma<g ref="char:EOLhyphen"/>ry full of grace &amp;c.</p>
+               </div>
+               <div type="part">
+                  <p>ANd the word was made flesh and dewlt in us.</p>
+                  <p>Hail Mary full of grace &amp;c.</p>
+                  <p>℣. The angel of the Lord declared to Mary.</p>
+                  <p>℟. And she concei<g ref="char:EOLhyphen"/>ved of the Holy Ghost.</p>
+               </div>
+               <div type="part">
+                  <head>Let us pray.</head>
+                  <p>INfuse we beseech thee O mercifull Lord, thy Grace in to our hearts, that we to whom the In<g ref="char:EOLhyphen"/>carnation of Christ
+<pb n="35" facs="tcp:199356:24"/> thy son was impar<g ref="char:EOLhyphen"/>ted by an Angel, may by his Cross and Passion attain the glory of his re<g ref="char:EOLhyphen"/>surrection. through the same Christ our Lord Amen.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>ANgelus Domine nunciavit Ma<g ref="char:EOLhyphen"/>riae &amp; concepit de
+<pb n="34" facs="tcp:199356:24"/> Spiritu sancto. Ave Maria &amp;c.</p>
+               <div type="part">
+                  <p>ECce ancilla Do<g ref="char:EOLhyphen"/>mini, fiat mihi secundum verbum tuum.</p>
+                  <p>Ave Maria gratia plena &amp;c.</p>
+               </div>
+               <div type="part">
+                  <p>ET verbum caro factum est, &amp; habitavit in nobis.</p>
+                  <p>Ave Maria gratia plena &amp;c.</p>
+                  <p>℣. Angelus Domini nuntiavit Mariae.</p>
+                  <p>℟. Et concepit de Spiritu sancto.</p>
+               </div>
+               <div type="part">
+                  <head>Oremus.</head>
+                  <p>GRatiam tuam quaesumus Do<g ref="char:EOLhyphen"/>mine mentibus nos<g ref="char:EOLhyphen"/>tris infunde: ut qui Angelo nuntiante, Christi filii tui in<g ref="char:EOLhyphen"/>carnationem
+<pb n="35" facs="tcp:199356:24"/> cogno<g ref="char:EOLhyphen"/>vimus per passionem ejus &amp; crucem ad resurrectionis glo<g ref="char:EOLhyphen"/>riam perducamur. Per Christum Do<g ref="char:EOLhyphen"/>minum nostrum. Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>Grace before meat.</head>
+            <div xml:lang="eng" type="version">
+               <p>Bless us O Lord and these thy gifts, which we are to receive of thy bounty. Through JESUS-CHRIST our Lord. Amen.</p>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>BEnedic Domi<g ref="char:EOLhyphen"/>ne nos, &amp; haec tua dona, quae de tua largitate sumus sumpturi. Per Chri<g ref="char:EOLhyphen"/>stum Dominum nos<g ref="char:EOLhyphen"/>trum ℟. Amen.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>Grace after meat.</head>
+            <div xml:lang="eng" type="version">
+               <p>WE give the thanks O Al<g ref="char:EOLhyphen"/>mighty God for all thy benefits; who livest and reignest world without end Amen.</p>
+               <p>Vouchsafe O Lord to render to all our benefactors for thy-
+<pb n="39" facs="tcp:199356:25"/> names sake life everlasting Amen.</p>
+               <p>℣. And may the souls of the faith<g ref="char:EOLhyphen"/>full through the mercy of God, rest in peace ℟. Amen.</p>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>GRatias tibi agi<g ref="char:EOLhyphen"/>mus, omnipo<g ref="char:EOLhyphen"/>tens Deus, pro uni<g ref="char:EOLhyphen"/>versis beneficiis tuis qui vivis &amp; regnas in saecula saeculo<g ref="char:EOLhyphen"/>rum. ℟. Amen.</p>
+               <p>Retribuere digna<g ref="char:EOLhyphen"/>re Domine omnibus nobis bona facienti<g ref="char:EOLhyphen"/>bus,
+<pb n="39" facs="tcp:199356:25"/> propter nomen tuum vitam aeter<g ref="char:EOLhyphen"/>nam ℟. Amen.</p>
+               <p>℣. Et fidelium ani<g ref="char:EOLhyphen"/>mae per misericor<g ref="char:EOLhyphen"/>diam Dei requies<g ref="char:EOLhyphen"/>cant in pace. ℟. Amen.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>Prayer to our Angel Gardian.</head>
+            <div xml:lang="eng" type="version">
+               <p>O Angel of the Lord who art my keeper, I being through his mercy and goodness com<g ref="char:EOLhyphen"/>mitted to thy care this day illuminate me, Keep me, de<g ref="char:EOLhyphen"/>fend me, govern me.</p>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>ANgele Dei qui custos es mei, me tibi commissum pietate superna, ho<g ref="char:EOLhyphen"/>die illumina, custo<g ref="char:EOLhyphen"/>di, rege, defende guberna.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>To all the Quires of Angels.</head>
+            <div xml:lang="eng" type="version">
+               <p>MIchel, Ga<g ref="char:EOLhyphen"/>briel, Ra<g ref="char:EOLhyphen"/>phael and all you holy Angels inter<g ref="char:EOLhyphen"/>cede for us in the sight of God.</p>
+               <p>℣. In the sight of Angels I shall sing un<g ref="char:EOLhyphen"/>to
+<pb n="37" facs="tcp:199356:25"/> thee O my God. ℟. I shall adore in thy holy temple and shall confess to thy name.</p>
+               <div type="part">
+                  <head>Let us pray.</head>
+                  <p>O God who in a marvellous manner disposest the services of men and Angels: graci<g ref="char:EOLhyphen"/>ously vouchsafe, that we may be de<g ref="char:EOLhyphen"/>fended here on earth, by those, who are thy constant servants in heaven. through Jesus-Christ our Lord Amen.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>MIchael, Ga<g ref="char:EOLhyphen"/>briel, Ra<g ref="char:EOLhyphen"/>phael &amp; omnes sanc<g ref="char:EOLhyphen"/>ti Angeli intercedi<g ref="char:EOLhyphen"/>te pro nobis in con<g ref="char:EOLhyphen"/>spectu Domini.</p>
+               <p>℣. In conspectu Angelorum Psallam
+<pb n="37" facs="tcp:199356:25"/> tibi Deus meus.</p>
+               <p>℟. Adorabo ad templum sanctum tuum &amp; confitebor nomini tuo.</p>
+               <div type="part">
+                  <head>Oremus.</head>
+                  <p>DEus qui miro ordine, Ange<g ref="char:EOLhyphen"/>lorum ministeria, hominumque dis<g ref="char:EOLhyphen"/>pensas, concede propitius, ut quibus tibi ministrantibus in coelo semper as<g ref="char:EOLhyphen"/>sistitur, ab iis in terra vita nostra muniatur. Per Christum Dominum nostrum Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>To All The Saints.</head>
+            <div xml:lang="eng" type="version">
+               <p>ALl you Saints of God vou<g ref="char:EOLhyphen"/>chsafe to intercede for our salvation and the salvation of all.</p>
+               <pb n="38" facs="tcp:199356:26"/>
+               <p>℣. Be glad O just and rejoice in the Lord.</p>
+               <p>℟. And glory all you right of heart.</p>
+               <div type="part">
+                  <head>Let us pray.</head>
+                  <p>PRotect O Lord thy people and preserve those that confide in the inter<g ref="char:EOLhyphen"/>cession of thy holy Apostles saint Peter and saint Paul.</p>
+               </div>
+               <div type="part">
+                  <p>VOuchsafe O Lord that all thy saints may evry where assist us and that whilst we are calling to remem<g ref="char:EOLhyphen"/>brance their meri<g ref="char:EOLhyphen"/>tes, we may feel the effects of their in<g ref="char:EOLhyphen"/>tercession, grant us peace in our times and frō thy church repell all wicked<g ref="char:EOLhyphen"/>ness, the ways ac<g ref="char:EOLhyphen"/>tions
+<pb n="39" facs="tcp:199356:26"/> and wills of us and of all thy ser<g ref="char:EOLhyphen"/>vants direct O Lord in the way of salva<g ref="char:EOLhyphen"/>tion, give to our be<g ref="char:EOLhyphen"/>nefactors eternal bless, and to the faithfull deceased e<g ref="char:EOLhyphen"/>ternal rest. through Jesus-Christ our Lord. Amen.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>SAncti Dei om<g ref="char:EOLhyphen"/>nes intercedere dignemini pro nos<g ref="char:EOLhyphen"/>tra omniumque sa<g ref="char:EOLhyphen"/>lute.</p>
+               <pb n="38" facs="tcp:199356:26"/>
+               <p>℣. Laetamini in Do<g ref="char:EOLhyphen"/>mino &amp; exultate justi.</p>
+               <p>℟. Et gloriamini omnes recti corde.</p>
+               <div type="part">
+                  <head>Oremus.</head>
+                  <p>PRotege Domine populum tuum &amp; Apostolorum tuo<g ref="char:EOLhyphen"/>rum Petri &amp; Pauli patrocinio confiden<g ref="char:EOLhyphen"/>tem perpetua defen<g ref="char:EOLhyphen"/>sione conserva.</p>
+               </div>
+               <div type="part">
+                  <p>OMnes sancti tui quaesumus Domine, nos ubique adjuvent: ut dum eorum merita reco<g ref="char:EOLhyphen"/>limus, patrocinia sentiamus, &amp; pa<g ref="char:EOLhyphen"/>cem tuam nostris concede temporibus &amp; ab Ecclesia tua cunctam repelle ne<g ref="char:EOLhyphen"/>quitiam; iter actus &amp; voluntates nos<g ref="char:EOLhyphen"/>tras &amp; omnium fa<g ref="char:EOLhyphen"/>mulorum
+<pb n="39" facs="tcp:199356:26"/> tuorum in salutis tuae prosperi<g ref="char:EOLhyphen"/>tate dispone bene<g ref="char:EOLhyphen"/>factoribus nostris sempiterna bona re<g ref="char:EOLhyphen"/>tribue &amp; omnibus fidelibus defunctis requiem aeternam concede. Per Chris<g ref="char:EOLhyphen"/>tum Dominum nos<g ref="char:EOLhyphen"/>trum.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>For the King.</head>
+            <div xml:lang="eng" type="version">
+               <p>OUr Lord hear thee in the day of tribulation: the name of the God of Jacob protect thee.</p>
+               <p>Send he help to thee from the holy place: and from sion defend thee.</p>
+               <p>Be mindfull of all thy sacrifice: and be thy holocaust made fat.</p>
+               <p>Give he unto thee according to thy
+<pb n="40" facs="tcp:199356:27"/> heart: and confirm he all thy counsel.</p>
+               <p>We shall rejoice in thy salvation: and in the name of God we shall be magnified.</p>
+               <p>Our Lord accom<g ref="char:EOLhyphen"/>plish all thy peti<g ref="char:EOLhyphen"/>tions: now I have knowen that our Lord hath saved his anointed.</p>
+               <p>He shall hear him from his holy heaven: in powers is the salvation of his right hand.</p>
+               <p>Some in chariots, and some in horses: but we will invoca<g ref="char:EOLhyphen"/>te in the name of the Lord our God.</p>
+               <p>They are bound, and have fallen: but we have risen and are set upright.</p>
+               <pb n="41" facs="tcp:199356:27"/>
+               <p>Lord save the king: and hear us in the day we shall invocate thee.</p>
+               <p>Glory be to the father, and to the son, and to the holy Ghost: as it was in the beginning, and now and ever, and world without end Amen.</p>
+               <p>℣. Lord save the king.</p>
+               <p>℟. And hear us in the day we shall in<g ref="char:EOLhyphen"/>vocate thee.</p>
+               <div type="part">
+                  <head>Let us pray.</head>
+                  <p>WE beseech the O Almighty God, that our sove<g ref="char:EOLhyphen"/>reign King N. thy servant, who through thy mercy has undertaken the governement of this king dom may in<g ref="char:EOLhyphen"/>crease
+<pb n="42" facs="tcp:199356:28"/> in all kind of vertue with which, being adorned, he may be inabled to avoid sin overco<g ref="char:EOLhyphen"/>me his enemys and at lenth arrive unto thee, who art the way, verity, and life. through JE<g ref="char:EOLhyphen"/>SUS-CHRIST our Lord Amen.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>EXaudiat te Do<g ref="char:EOLhyphen"/>minus in die tribulationis: pro<g ref="char:EOLhyphen"/>tegat te nomen Dei Jacob.</p>
+               <p>Mittat tibi auxi<g ref="char:EOLhyphen"/>lium de sancto: &amp; de Sion tueatur te.</p>
+               <p>Memor sit omnis sacrificii tui &amp; holocaustum tuum pingue fiat.</p>
+               <p>Tribuat tibi se<g ref="char:EOLhyphen"/>cundum cor tuum:
+<pb n="40" facs="tcp:199356:27"/> &amp; omne consilium tuum confirmet.</p>
+               <p>Laetabimur in sa<g ref="char:EOLhyphen"/>lutari tuo: &amp; in nomine Dei nostri magnificabimur.</p>
+               <p>Impleat Dominus omnes petitiones tuas: nunc cognovi quoniam salvum fecit Dominus Christum suum.</p>
+               <p>Exaudiet illum de coelo sancto suo: in potentatibus sa<g ref="char:EOLhyphen"/>lus dexterae ejus.</p>
+               <p>Hi in curribus &amp; hi in equis: nos au<g ref="char:EOLhyphen"/>tem in nomine Do<g ref="char:EOLhyphen"/>mini Dei nostri in<g ref="char:EOLhyphen"/>vocabimus.</p>
+               <p>Ipsi obligati sunt &amp; ceciderunt: nos autem surreximus &amp; erecti sumus.</p>
+               <pb n="41" facs="tcp:199356:27"/>
+               <p>Domine salvum fac regem: &amp; exau<g ref="char:EOLhyphen"/>di nos in die in qua invocaverimus te.</p>
+               <p>Gloria Patri &amp; Filio &amp; Spiritui sancto: sicut erat in principio, &amp; nunc, &amp; semper, &amp; in sae<g ref="char:EOLhyphen"/>cula saeculorum. Amen.</p>
+               <p>℣. Domine salvum fac Regem.</p>
+               <p>℟. Et exaudi nos in die qua invoca<g ref="char:EOLhyphen"/>verimus te.</p>
+               <div type="part">
+                  <head>Oremus.</head>
+                  <p>QƲaesumus omnipotens Deus ut famulus tuus N. Rex noster qui tua miseratione suscepit regni guber<g ref="char:EOLhyphen"/>nacula, virtutum etiam omnium per<g ref="char:EOLhyphen"/>cipiat incrementa,
+<pb n="42" facs="tcp:199356:28"/> qui bus decenter or<g ref="char:EOLhyphen"/>natus, &amp; vitiorum monstra devitare, hostes superare, &amp; ad te qui via, veri<g ref="char:EOLhyphen"/>tas &amp; vita es, gra<g ref="char:EOLhyphen"/>tiosus valeat perve<g ref="char:EOLhyphen"/>nire. Per Christum Dominum nostrum. Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayers">
+            <head>PRAYERS For the souls of Purgatory.</head>
+            <div xml:lang="eng" type="version">
+               <p>FRom the depths I have cryed to thee O Lord! Lord hear my voice.</p>
+               <p>Let they eares be attentif to the voice of my prayer.</p>
+               <p>If thou shalt ob<g ref="char:EOLhyphen"/>serve iniquitys O Lord: who shall O Lord sustain it.</p>
+               <pb n="43" facs="tcp:199356:28"/>
+               <p>Because with the is propitiation: and for thy law I have expected the O Lord.</p>
+               <p>My soul hath ex<g ref="char:EOLhyphen"/>pected in his word: my soul hath hoped in our Lord.</p>
+               <p>From the watch of the morning un<g ref="char:EOLhyphen"/>till night: let Israël hope in our Lord.</p>
+               <p>Because with our Lord is mercy: and with him a plenti<g ref="char:EOLhyphen"/>full redemption.</p>
+               <p>And he shall re<g ref="char:EOLhyphen"/>deem Israël from all his iniquitys.</p>
+               <p>℣. Give them O Lord eternal rest.</p>
+               <p>℟. And let eternal light shine upon them.</p>
+               <div type="part">
+                  <pb n="44" facs="tcp:199356:29"/>
+                  <head>Let us pray.</head>
+                  <p>O God the ma<g ref="char:EOLhyphen"/>ker and Re<g ref="char:EOLhyphen"/>deemer of all Faith<g ref="char:EOLhyphen"/>full, grant to the souls of thy servants remission of all their sins, that by pious supplications, they may obtain the par<g ref="char:EOLhyphen"/>don, which they ha<g ref="char:EOLhyphen"/>ve always desired. Through our Lord Jesus-Christ Amen.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>DE profundis clamavi ad te Domine: Domi<g ref="char:EOLhyphen"/>ne exaudi vocem meam.</p>
+               <p>Fiant aures tuae intendentes in vo<g ref="char:EOLhyphen"/>cem deprecationis meae.</p>
+               <p>Si iniquitates ob<g ref="char:EOLhyphen"/>servaveris Domine: Domine quis susti<g ref="char:EOLhyphen"/>nebit?</p>
+               <pb n="43" facs="tcp:199356:28"/>
+               <p>Quia apud te pro<g ref="char:EOLhyphen"/>pitiatio est: &amp; pro<g ref="char:EOLhyphen"/>pter legem tuam sustinui te Domine.</p>
+               <p>Sustinuit anima mea in verbo ejus: speravit anima mea in Domino.</p>
+               <p>A custodia matu<g ref="char:EOLhyphen"/>tina usque ad no<g ref="char:EOLhyphen"/>ctem: speret Israël in Domino.</p>
+               <p>Quia apud Domi<g ref="char:EOLhyphen"/>num misericordia: &amp; copiosa apud eum redemptio.</p>
+               <p>Et ipse redimet Israël: ex omnibus iniquitatibus ejus.</p>
+               <p>℣. Requiem aeter<g ref="char:EOLhyphen"/>nam dona eis domi<g ref="char:EOLhyphen"/>ne.</p>
+               <p>℟. &amp; lux perpetua luceat eis.</p>
+               <div type="part">
+                  <pb n="44" facs="tcp:199356:29"/>
+                  <head>Oremus.</head>
+                  <p>FIdelium Deus omnium condi<g ref="char:EOLhyphen"/>tor &amp; redemptor, animabus famulo<g ref="char:EOLhyphen"/>rum, famularum<g ref="char:EOLhyphen"/>que tuarum remissio<g ref="char:EOLhyphen"/>nem cunctorum tri<g ref="char:EOLhyphen"/>bue peccatorum: ut indulgentiam, quam semper opta<g ref="char:EOLhyphen"/>verunt, piis suppli<g ref="char:EOLhyphen"/>cationibus conse<g ref="char:EOLhyphen"/>quantur. Per Domi<g ref="char:EOLhyphen"/>num nostrum Iesum Christum Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>The Litany of the B. Virgin.</head>
+            <div xml:lang="eng" type="version">
+               <p>LOrd have mer<g ref="char:EOLhyphen"/>cy on us.</p>
+               <p>Christ have mercy on us.</p>
+               <p>Lord have mercy on us.</p>
+               <p>Iesus receive our prayers.</p>
+               <p>Lord Jesus grant our petitions.</p>
+               <pb n="45" facs="tcp:199356:29"/>
+               <p>God the Father, Creator of the world, have mercy on us.</p>
+               <p>O God the son, Re<g ref="char:EOLhyphen"/>deemer of man<g ref="char:EOLhyphen"/>kind, have mercy on us.</p>
+               <p>O God the holy Ghost, perfecter of the Elect, have mercy on us.</p>
+               <p>O sacred Trinity three persons and one God, have mercy on us.</p>
+               <p>Holy Mary pray for us.</p>
+               <p>Holy mother of God, Pray for us.</p>
+               <p>Holy Vigin of Virgins, Pray for us.</p>
+               <p>Mother of Christ, Pray for us.</p>
+               <p>Mother of divine grace, Pray for us.</p>
+               <p>Mother most pure, Pray for us.</p>
+               <p>Mother most chaste, Pray for us.</p>
+               <pb n="46" facs="tcp:199356:30"/>
+               <p>Mother uncorru<g ref="char:EOLhyphen"/>pted, Pray for us.</p>
+               <p>Mother spotless and undefiled, Pray for us.</p>
+               <p>Mother of love, Pray for us.</p>
+               <p>Mother worthy of admiration, Pray for us.</p>
+               <p>Mother of our Crea<g ref="char:EOLhyphen"/>tor, Pray for us.</p>
+               <p>Mother of our sa<g ref="char:EOLhyphen"/>viour, Pray for us.</p>
+               <p>Virgin most pru<g ref="char:EOLhyphen"/>dent, Pray for us.</p>
+               <p>Virgin most vene<g ref="char:EOLhyphen"/>rable, Pray for us.</p>
+               <p>Virgin most worthy of praise, Pray for us.</p>
+               <p>Virgin most po<g ref="char:EOLhyphen"/>werfull, Pray for us.</p>
+               <p>Virgin most cle<g ref="char:EOLhyphen"/>ment, Pray for us.</p>
+               <p>Virgin most faith<g ref="char:EOLhyphen"/>full, Pray for us.</p>
+               <p>Miror of Iustice, Pray for us.</p>
+               <p>Seat of wisdom, Pray for us.</p>
+               <p>Cause of our joy, Pray for us.</p>
+               <p>Spiritual Vessel, Pray for us.</p>
+               <pb n="47" facs="tcp:199356:30"/>
+               <p>Vessel of honour, Pray for us.</p>
+               <p>Vessel of singular devotion, Pray for us.</p>
+               <p>Mystical rose, Pray for us.</p>
+               <p>Tower of David, Pray for us.</p>
+               <p>Tower of jvory, Pray for us.</p>
+               <p>House of gold, Pray for us.</p>
+               <p>Arch of Alliance, Pray for us.</p>
+               <p>Gate of heaven, Pray for us.</p>
+               <p>Morning star, Pray for us.</p>
+               <p>Health of the weak, Pray for us.</p>
+               <p>Refuge of sinners, Pray for us.</p>
+               <p>Comfort of the af<g ref="char:EOLhyphen"/>flicted, Pray for us.</p>
+               <p>Help of Chris<g ref="char:EOLhyphen"/>tians, Pray for us.</p>
+               <p>Queen of Angels, Pray for us.</p>
+               <p>Queen of Patriar<g ref="char:EOLhyphen"/>ches, Pray for us.</p>
+               <p>Queen of Prophe<g ref="char:EOLhyphen"/>tes, Pray for us.</p>
+               <p>Queen of Apostles, Pray for us.</p>
+               <p>Queen of Martyrs, Pray for us.</p>
+               <p>Queen of Confes<g ref="char:EOLhyphen"/>sors, Pray for us.</p>
+               <pb n="48" facs="tcp:199356:31"/>
+               <p>Queen of Virgins, Pray for us,</p>
+               <p>Queen of all saints, Pray for us,</p>
+               <p>Lamb of god that takest away the sins of the world, spare us O Lord.</p>
+               <p>Lamb of God that takest away the sins of the world, hear us O Lord.</p>
+               <p>Lamb of God that takest away the sins of the world, have mercy on us.</p>
+               <p>Lord hear us.</p>
+               <p>Lord grant our pe<g ref="char:EOLhyphen"/>tition.</p>
+               <p>Lord have mercy on us.</p>
+               <p>Christ have mercy on us.</p>
+               <p>Lord have mercy on on us.</p>
+               <p>Our Father &amp;c.</p>
+               <div type="part">
+                  <pb n="49" facs="tcp:199356:31"/>
+                  <head>Anthem.</head>
+                  <p>WE have re<g ref="char:EOLhyphen"/>course to your protection and assis<g ref="char:EOLhyphen"/>tance O holy mother of God, reiect not the prayers wé ad<g ref="char:EOLhyphen"/>dresse unto you in our want, but deli<g ref="char:EOLhyphen"/>ver us from all dan<g ref="char:EOLhyphen"/>gers, O Glorious and ever Blissed Virgin.</p>
+                  <p>℣. O Lord hear our prayer.</p>
+                  <p>℟. and let our cry come unto thee.</p>
+               </div>
+               <div type="part">
+                  <head>Let us pray.</head>
+                  <p>GRant thy ser<g ref="char:EOLhyphen"/>vants, we be<g ref="char:EOLhyphen"/>seech thee O Lord God, the favour to enjoy constant health of body and mind and by the interce<g ref="char:EOLhyphen"/>ssion of the ever Blissed Virgin Ma<g ref="char:EOLhyphen"/>ry delivering them
+<pb n="50" facs="tcp:199356:32"/> from all present sor<g ref="char:EOLhyphen"/>row, let them ob<g ref="char:EOLhyphen"/>tain eternal happi<g ref="char:EOLhyphen"/>ness in heaven. Through our Lord Jesus-Christ Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>To Invocate the help of the Holy Ghost.</head>
+            <lg>
+               <l>SPirit Creator of mankind,</l>
+               <l>Visit every pious mind,</l>
+               <l>And let sweetly thy grace invade</l>
+               <l>Such breasts, o lord, as thou hast made.</l>
+            </lg>
+            <lg>
+               <l>Thou art the comforter, whom all.</l>
+               <l>Gift of the highest God must call</l>
+               <l>The living fountain, fire and love,</l>
+               <l>Spiritual unction from above.</l>
+            </lg>
+            <lg>
+               <l>Gods sacred finger, which imparts</l>
+               <l>A sevenfold grace to faithfull harts.</l>
+               <l>Thou art the Fathers promise, whence</l>
+               <l>We language have and eloquence.</l>
+            </lg>
+            <lg>
+               <l>Inlighten Lord, our souls, and grant</l>
+               <l>That we thy love may never want.</l>
+               <l>Let not our vertue ever fail:</l>
+               <l>But strenghten what in flesh is frail</l>
+            </lg>
+            <lg>
+               <pb n="52" facs="tcp:199356:33"/>
+               <l>Chase far away our mortal fo</l>
+               <l>And they blest peace on us bestow</l>
+               <l>Let thy direction on us shine</l>
+               <l>That sin and vice we may decline.</l>
+            </lg>
+            <lg>
+               <l>By thee let us the Father know</l>
+               <l>Vouchsafe, likewise the son to show</l>
+               <l>And let's believe in the, who dost</l>
+               <l>Proceed from both O Holy Ghost</l>
+            </lg>
+            <lg>
+               <l>Great glory to the Father bee</l>
+               <l>And to the son, and equally</l>
+               <l>To our most Holy comforter</l>
+               <l>Through years ages and for ever. Amen.</l>
+            </lg>
+            <lg>
+               <l>℣. The Apostles speak with divers tongues, alleluia.</l>
+               <l>℟. The wonderfull works of God. alleluia.</l>
+            </lg>
+         </div>
+         <div type="prayer">
+            <head>Let us pray.</head>
+            <p>O Lord, who didest instruct the harts of the faithfull, by the illumination of the holy Ghost, grant that by the same Spirit we may have a right understanding in all things
+<pb n="54" facs="tcp:199356:34"/> and evermore rejoyce in his consola<g ref="char:EOLhyphen"/>tion through our lord Jesus Christ. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>To implore the intercession of our Blessed Lady.</head>
+            <lg>
+               <l>HAil ye the sea's bright star,</l>
+               <l>Who Gods pure mother are,</l>
+               <l>A virgin ever, blest,</l>
+               <l>True gate of heavenly, rest.</l>
+            </lg>
+            <lg>
+               <l>Who by the Angels, voice,</l>
+               <l>Didst learn that happy choice,</l>
+               <l>Firm peace unto us give,</l>
+               <l>Changing the name of Eve.</l>
+            </lg>
+            <lg>
+               <l>Offender's bonds unbind,</l>
+               <l>Give sight unto the blind,</l>
+               <l>Our evils drive away,</l>
+               <l>For good vouchsafe to pray.</l>
+            </lg>
+            <lg>
+               <l>Shew us a mothers care,</l>
+               <l>To him convey our pray'r,</l>
+               <l>Who for our sake put on,</l>
+               <l>The title of thy son.</l>
+            </lg>
+            <lg>
+               <l>O singularly chast:</l>
+               <l>Whose meekness all surpassd,</l>
+               <pb n="56" facs="tcp:199356:35"/>
+               <l>Our sins once all exil'd,</l>
+               <l>Make us both chast and mild.</l>
+            </lg>
+            <lg>
+               <l>Grant that our life be pure,</l>
+               <l>Prepare the way secure,</l>
+               <l>That seing Jesus, wee,</l>
+               <l>May joy eternally.</l>
+            </lg>
+            <lg>
+               <l>Praise to the Father be</l>
+               <l>Glory to Christs Deity</l>
+               <l>To th' Holy Ghost the same,</l>
+               <l>To three one honor frame. Amen.</l>
+            </lg>
+            <lg>
+               <l>℣. Pray for us O holy Mother of God.</l>
+               <l>℟. That we may become worthy of the promises of Christ.</l>
+            </lg>
+         </div>
+         <div type="prayer">
+            <head>Let us pray.</head>
+            <p>WE beseech thee O mercifull God to sustain the weakness of thy servants! that we who celebrate the memory of the Blessed mother of our Lord may by the aid of her interces<g ref="char:EOLhyphen"/>sion, obtain thy grace to rise from our iniquities. Through the same Christ-Jesus our Lord Amen.</p>
+            <pb n="58" facs="tcp:199356:36"/>
+            <p>Anthems of our B. lady for the different times of the year.</p>
+         </div>
+         <div type="prayer">
+            <head>From the first sunday of Advent till Candlemas inclusively.</head>
+            <l>BLest Mother of our Lord, whose prayers display.</l>
+            <l>The gates of heaven, whose light directs our way,</l>
+            <l>Here in these dangerous seas; obtain supplys,</l>
+            <l>For those who often fall, yet strive to rise,</l>
+            <l>Thou, at whom nature stood amaz'd to see,</l>
+            <l>The worlds Creator humbly born of thee!</l>
+            <l>Thou, whom the Angel did that ho<g ref="char:EOLhyphen"/>mage pay</l>
+            <l>All spotless virgin, for us sinners pray.</l>
+            <div type="part">
+               <head>In Advent.</head>
+               <p>℣. The Angel of the Lord declared to Mary.</p>
+               <p>℟. And she conceived by the holy Ghost.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb n="60" facs="tcp:199356:37"/>
+            <head>Let us pray.</head>
+            <p>INfuse we beseech the O Lord, thy grace in to our hearts that we to whom, the Incarnation of Christ thy son, was imparted by an Angel, may by his Cross and Passion attain the glory of his resurrection. Through the same Christ our Lord. Amen,</p>
+            <div type="part">
+               <head>After Christmas.</head>
+               <p>℣. After childbed O Virgin, you re<g ref="char:EOLhyphen"/>mained uncorrupt.</p>
+               <p>℟. Moher of God intercede for us.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>Let us pray.</head>
+            <p>O Lord, who by the fecondity of the Blessed Virgin Mary, hast bestowed upon mankind, the reward of eternal salvation; grant we beseech the that we may feel the effects of the intercession of her, by whom we have deserved to receive the author of life our Lord Jesus-Christ thy son who with the liveth and reigneth world without end. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>From Candelmas to maunday thursday.</head>
+            <l>HAil, Queen of Angels holy Qui<g ref="char:EOLhyphen"/>res,</l>
+            <l>Hail, whom the court of heav'n admires</l>
+            <pb n="62" facs="tcp:199356:38"/>
+            <l>Thou art the Root whence our joys spring:</l>
+            <l>The gate that to us light didst bring:</l>
+            <l>Virgin, whose glory nothing wants,</l>
+            <l>Whose beauty far exceeds all saints,</l>
+            <l>Rejoyce, we thee salute and pray</l>
+            <l>Christ's wrath against us thou mayst lay.</l>
+            <l>℣. Vouchsafe O holy Virgin to ac<g ref="char:EOLhyphen"/>cept our prayses.</l>
+            <l>℟. And favour us with thy prayers for strength against our enimys.</l>
+         </div>
+         <div type="prayer">
+            <head>Let us pray.</head>
+            <p>O Mercifull Lord uphold by thy help, the weakness of thy ser<g ref="char:EOLhyphen"/>vants, that we who celebrate the me<g ref="char:EOLhyphen"/>mory of the blessed mother of God may by her intercession obtain the grace to rise from our iniquitys. Through the same Jesus-Christ our Lord. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>From Easter to Trinity sunday.</head>
+            <l>REjoyce chast Queen of Angels and apply,</l>
+            <l>All those blest Quires to sing this vi<g ref="char:EOLhyphen"/>ctory:</l>
+            <pb n="64" facs="tcp:199356:39"/>
+            <l>He that was born of thee and dy'd for us,</l>
+            <l>Has conquer'd death, is risen gl rious.</l>
+            <l>Sing then and in thy hymns this mer<g ref="char:EOLhyphen"/>cy crave</l>
+            <l>That thy son may our souls in jud<g ref="char:EOLhyphen"/>gement save.</l>
+            <l>℣. Rejoyce and triumph O Blessed Virgin Mary. Alleluia.</l>
+            <l>℟. For our Lord is risen indeed. Alleluia.</l>
+         </div>
+         <div type="prayer">
+            <head>Let us pray.</head>
+            <p>O God who by the Resurrection of thy son our Lord Jesus-Christ hast vouchsaft to make glad the hearts of the world: grant we beseech thee that, by the prayers of his immacula<g ref="char:EOLhyphen"/>te Virgin Mother we may attain the joys af eternall life. Through the same Jesus-Christ our Lord. Amen,</p>
+         </div>
+         <div type="prayer">
+            <head>From Trinity sunday till Advent.</head>
+            <lg>
+               <l>HAil Queen of saints, hail mer<g ref="char:EOLhyphen"/>cys mother,</l>
+               <l>Our life, our hope, our comfort hail:</l>
+               <l>To thee, deploring one another</l>
+               <l>Wee poor eves banish't ofspring wail</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:199356:40"/>
+               <l>To thee we cry; and our sad moans</l>
+               <l>Sigh out into thy tender ears:</l>
+               <l>To thee our hearts send bitter groans</l>
+               <l>From this dolefull valley of tears.</l>
+            </lg>
+            <lg>
+               <l>Hear, glorious Advocate, O hear!</l>
+               <l>And towards Whretched us incline</l>
+               <l>The gracious aspect of those dear</l>
+               <l>Compassionating eyes of thine.</l>
+            </lg>
+            <lg>
+               <l>Soft source of pity, mild, and sweet,</l>
+               <l>O Mary, ever virgin pure!</l>
+               <l>Behold us prostrate at thy feet</l>
+               <l>And by thy pow'rfull pray'rs procure,</l>
+            </lg>
+            <lg>
+               <l>That an unweary'd close pursuit</l>
+               <l>Of life, may bring us so to dy,</l>
+               <l>We may on Jesus thy blest fruit</l>
+               <l>Feast our glad eyes eternally.</l>
+            </lg>
+            <p>℣. Pray for us O holy mother of God.</p>
+            <p>℟. That we may be made worthy of the promises of Christ.</p>
+         </div>
+         <div type="prayer">
+            <head>Let us pray.</head>
+            <p>ALmighty and ever living God who by the cooperation of the holy Ghost, vouchafa'st to prepare
+<pb n="68" facs="tcp:199356:41"/> the body and soul of the glorious Virgin Mother Mary, that she might become the Worthy habitation of thy son: grant that as with joy we celebrate her memory; we may by her pious intercession be deliver'd from all temporal evils, and from eternal death. Through the same Je<g ref="char:EOLhyphen"/>sus Christ our Lord. Amen.</p>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <p>KYrie eleison.</p>
+            <p>Christe eleison.</p>
+            <p>Kyrie eleison.</p>
+            <p>Christe audi nos.</p>
+            <p>Christe exaudi nos.</p>
+            <pb n="45" facs="tcp:199356:29"/>
+            <p>Pater de coelis Deus, miserere nobis.</p>
+            <p>Fili Redemptor mundi Deus, mi<g ref="char:EOLhyphen"/>serere nobis.</p>
+            <p>Spiritus Sancte Deus, miserere no<g ref="char:EOLhyphen"/>bis.</p>
+            <p>Sancta Trinitas u<g ref="char:EOLhyphen"/>nus Deus, misere<g ref="char:EOLhyphen"/>re nobis.</p>
+            <p>Sancta Maria, ora pro nobis.</p>
+            <p>Sancta Dei Ge<g ref="char:EOLhyphen"/>nitrix, Ora pro nobis.</p>
+            <p>Sancta Virgo Virginum, Ora pro nobis.</p>
+            <p>Mater Christi, Ora pro nobis.</p>
+            <p>Mater divinae gratiae, Ora pro nobis.</p>
+            <p>Mater purissima, Ora pro nobis.</p>
+            <p>Mater castissima, Ora pro nobis.</p>
+            <pb n="46" facs="tcp:199356:30"/>
+            <p>Mater inviolata, Ora pro nobis.</p>
+            <p>Mater intemerata, Ora pro nobis.</p>
+            <p>Mater amabilis, Ora pro nobis.</p>
+            <p>Mater admirabilis, Ora pro nobis.</p>
+            <p>Mater Creatoris, Ora pro nobis.</p>
+            <p>Mater Salvatoris, Ora pro nobis.</p>
+            <p>Virgo prudentissima, Ora pro nobis.</p>
+            <p>Virgo veneranda, Ora pro nobis.</p>
+            <p>Virgo praedicanda, Ora pro nobis.</p>
+            <p>Virgo potens, Ora pro nobis.</p>
+            <p>Virgo clemens, Ora pro nobis.</p>
+            <p>Virgo fidelis, Ora pro nobis.</p>
+            <p>Speculum justitiae, Ora pro nobis.</p>
+            <p>Sedes sapientiae, Ora pro nobis.</p>
+            <p>Causa nostra laetitiae, Ora pro nobis.</p>
+            <p>Vas spirituale, Ora pro nobis.</p>
+            <pb n="47" facs="tcp:199356:30"/>
+            <p>Vas honorabile, Ora pro nobis.</p>
+            <p>Vas insigne devo<g ref="char:EOLhyphen"/>tionis, Ora pro nobis.</p>
+            <p>Rosa mystica, Ora pro nobis.</p>
+            <p>Turris Davidica, Ora pro nobis.</p>
+            <p>Turris eburnea, Ora pro nobis.</p>
+            <p>Domus aurea, Ora pro nobis.</p>
+            <p>Foederis arca, Ora pro nobis.</p>
+            <p>Janua coeli, Ora pro nobis.</p>
+            <p>Stella matutina, Ora pro nobis.</p>
+            <p>Salus infirmorum, Ora pro nobis.</p>
+            <p>Refugium peccato<g ref="char:EOLhyphen"/>rum, Ora pro nobis.</p>
+            <p>Consolatrix afflicto<g ref="char:EOLhyphen"/>rum, Ora pro nobis.</p>
+            <p>Auxilium Christia<g ref="char:EOLhyphen"/>norum, Ora pro nobis.</p>
+            <p>Regina Angelo<g ref="char:EOLhyphen"/>rum, Ora pro nobis.</p>
+            <p>Regina Patriar<g ref="char:EOLhyphen"/>charum, Ora pro nobis.</p>
+            <p>Regina Prophe<g ref="char:EOLhyphen"/>tarum, Ora pro nobis.</p>
+            <p>Regina Apostolo<g ref="char:EOLhyphen"/>rum, Ora pro nobis.</p>
+            <p>Regina Martyrum, Ora pro nobis.</p>
+            <p>Regina Confesso<g ref="char:EOLhyphen"/>rum, Ora pro nobis.</p>
+            <pb n="48" facs="tcp:199356:31"/>
+            <p>Regina Virginum, Ora pro nobis.</p>
+            <p>Regina sanctorum omnium, Ora pro nobis.</p>
+            <p>Agnus Dei qui tol<g ref="char:EOLhyphen"/>lis peccata mundi, parce nobis Domi<g ref="char:EOLhyphen"/>ne.</p>
+            <p>Agnus Dei qui tol<g ref="char:EOLhyphen"/>lis peccata mundi, exaudi nos Domi<g ref="char:EOLhyphen"/>ne.</p>
+            <p>Agnus Dei qui tol<g ref="char:EOLhyphen"/>lis peccata mundi, miserere nobis.</p>
+            <p>Christe audi nos.</p>
+            <p>Christe exaudi nos.</p>
+            <p>Kyrie eleison.</p>
+            <p>Christe eleison.</p>
+            <p>Kyrie eleison.</p>
+            <p>Pater noster &amp;c.</p>
+            <div type="part">
+               <pb n="49" facs="tcp:199356:31"/>
+               <head>Antiphona.</head>
+               <p>SƲb tuum prae<g ref="char:EOLhyphen"/>sidium confugi<g ref="char:EOLhyphen"/>mus sancta Dei Ge<g ref="char:EOLhyphen"/>nitrix, nostras de<g ref="char:EOLhyphen"/>precationes ne des<g ref="char:EOLhyphen"/>picias in necessita<g ref="char:EOLhyphen"/>tibus, sed à periculis cunctis libera nos semper virgo glorio<g ref="char:EOLhyphen"/>sa &amp; benedicta.</p>
+               <p>℣. Domine exaudi orationem meam.</p>
+               <p>℟. Et clamor meus ad te veniat.</p>
+            </div>
+            <div type="part">
+               <head>Oremus.</head>
+               <p>COncede nos fa<g ref="char:EOLhyphen"/>mulos tuos quae<g ref="char:EOLhyphen"/>sumus Domine Deus perpetua mentis &amp; corporis sanitate gaudere &amp; gloriosa Beatae Mariae semper Virginis intercessio<g ref="char:EOLhyphen"/>ne à praesenti libe<g ref="char:EOLhyphen"/>rari tristitia &amp; aeter<g ref="char:EOLhyphen"/>na
+<pb n="50" facs="tcp:199356:32"/> perfrui laetitia. Per Dominum nos<g ref="char:EOLhyphen"/>trum Jesum Chris<g ref="char:EOLhyphen"/>tum. Amen.</p>
+            </div>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <pb n="51" facs="tcp:199356:32"/>
+            <head>Ad invocandum auxilium Spiritus Sancti.</head>
+            <lg>
+               <l>VEni creator Spiritus,</l>
+               <l>Mentes tuorum visita:</l>
+               <l>Imple superna gratia,</l>
+               <l>Quae tu creasti pectora,</l>
+            </lg>
+            <lg>
+               <l>Qui Paracletus diceris,</l>
+               <l>Donum Dei altissimi:</l>
+               <l>Fons vivus, ignis, charitas,</l>
+               <l>Et spiritalis unctio.</l>
+            </lg>
+            <lg>
+               <l>Tu septiformis munere,</l>
+               <l>Dextrae Dei tu digitus,</l>
+               <l>Tu rite promissum Patris,</l>
+               <l>Sermone ditans guttura.</l>
+            </lg>
+            <lg>
+               <l>Accende lumen sensibus,</l>
+               <l>Infunde amorem cordibus,</l>
+               <l>Infirma nostri corporis,</l>
+               <l>Virtute firmans perpeti.</l>
+            </lg>
+            <lg>
+               <pb n="53" facs="tcp:199356:33"/>
+               <l>Hostem repellas longius,</l>
+               <l>Pacemque dones protinus,</l>
+               <l>Ductore sic te praevio,</l>
+               <l>Vitemus omne noxium.</l>
+            </lg>
+            <lg>
+               <l>Per te sciamus da Patrem,</l>
+               <l>Noscamus atque Filium,</l>
+               <l>Te utriusque Spiritum</l>
+               <l>Credamus omni tempore.</l>
+            </lg>
+            <lg>
+               <l>Gloria Patri Domino,</l>
+               <l>Natoque qui à mortuis</l>
+               <l>Surrexit, ac Paraclito,</l>
+               <l>In saeculorum saecula. Amen.</l>
+            </lg>
+            <lg>
+               <l>℣. Emitte spiritum tuum, &amp; creabuntur.</l>
+            </lg>
+            <lg>
+               <l>℟. Et renovabis faciem terrae. Alleluia.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>Oremus.</head>
+            <p>DEus, qui corda fidelium, sancti Spi<g ref="char:EOLhyphen"/>ritûs illustratione docuisti, da nobis in eodem spiritu recta sapere, &amp; de ejus semper consolatione gaudere. Per Christum Dominum nostrum. Amen.</p>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <pb n="55" facs="tcp:199356:34"/>
+            <head>Ad Beatam Virginem.</head>
+            <lg>
+               <l>AVe maris stella,</l>
+               <l>Dei mater alma,</l>
+               <l>Atque semper virgo:</l>
+               <l>Felix coeli porta.</l>
+            </lg>
+            <lg>
+               <l>Sumens illud ave,</l>
+               <l>Gabrielis ore,</l>
+               <l>Funda nos in pace,</l>
+               <l>Mutans nomen Evae.</l>
+            </lg>
+            <lg>
+               <l>Solve vincla reis,</l>
+               <l>Profer lumen caecis,</l>
+               <l>Mala nostra pelle,</l>
+               <l>Bona cuncta posce.</l>
+            </lg>
+            <lg>
+               <l>Monstra te esse matrem,</l>
+               <l>Sumat per te preces,</l>
+               <l>Qui pro nobis natus,</l>
+               <l>Tulit esse tuus.</l>
+            </lg>
+            <lg>
+               <l>Virgo singularis,</l>
+               <l>Inter omnes mitis.</l>
+               <pb n="57" facs="tcp:199356:35"/>
+               <l>Nos culpis solutos,</l>
+               <l>Mites fac &amp; castos.</l>
+            </lg>
+            <lg>
+               <l>Vitam praesta puram,</l>
+               <l>Iter para tutum,</l>
+               <l>Vt videntes Iesum,</l>
+               <l>Semper collaetemur.</l>
+            </lg>
+            <lg>
+               <l>Sit laus Deo Patri,</l>
+               <l>Summo Christo decus,</l>
+               <l>Spiritui sancto,</l>
+               <l>Tribus honor unus.</l>
+            </lg>
+            <lg>
+               <l>℣. Ora pro nobis sancta Dei genitrix.</l>
+               <l>℟. Ʋt digni efficiamur promissionibus Christi.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>Oremus.</head>
+            <p>COncede misericors Deus fragilitati nos<g ref="char:EOLhyphen"/>trae praesidium, ut qui sanctae Dei geni<g ref="char:EOLhyphen"/>tricis memoriam agimus, intercessionis ejus auxilio à nostris iniquitatibus resurgamus. Per eundem Christum Dominum nostrum-Amen.</p>
+            <pb n="59" facs="tcp:199356:36"/>
+            <p>Antiphonae B. Virginis secundùm varia anni tempora.</p>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>A Dominica prima Adventus usque ad Purificationem B. Virginis inclusivè.</head>
+            <l>ALma Redemptoris mater, quae pervia caeli</l>
+            <l>Porta manes, &amp; stella maris, succurre ca<g ref="char:EOLhyphen"/>denti</l>
+            <l>Surgere qui curat populo: tu quae genuisti,</l>
+            <l>Natura mirante, tuum sanctum genitorem.</l>
+            <l>Virgo priùs ac posteriùs, Gabrielis ab ore</l>
+            <l>Sumens illud Ave peccatorum miserere.</l>
+            <div type="part">
+               <head>In Adventu.</head>
+               <p>℣. Angelus Domini nunciavit Mariae.</p>
+               <p>℟. Et concepit de Spiritu sancto.</p>
+            </div>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <pb n="61" facs="tcp:199356:37"/>
+            <head>Oremus.</head>
+            <p>GRatiam tuam quaesumus, Domine, mentibus nostris infunde: ut qui An<g ref="char:EOLhyphen"/>gelo nunciante, Christi Filii tui incarna<g ref="char:EOLhyphen"/>tionem cognovimus, per passionem ejus &amp; crucem, ad resurrectionis gloriam perduca<g ref="char:EOLhyphen"/>mur. Per eundem Christum Dominum no<g ref="char:EOLhyphen"/>strum. Amen.</p>
+            <div type="part">
+               <head>Post Nativitatem.</head>
+               <p>℣. Post partum Virgo inviolata permansisti.</p>
+               <p>℟. Dei genitrix intercede pro nobis.</p>
+            </div>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>Oremus.</head>
+            <p>DEus qui salutis aeternae, beatae Mariae virginitate foecunda, humano generi praemia praestitisti: tribue quaesumus, ut ipsam pro nobis intercedere sentiamus, per quam meruimus authorem vitae suscipere Dominum nostrum Jesum Christum Filium tuum, Qui tecum vivit &amp; regnat in saecu<g ref="char:EOLhyphen"/>la saeculorum. Amen.</p>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>A Purificatione usque ad Feriam quintam in Coena Domini.</head>
+            <l>AVe Regina coelorum,</l>
+            <l>Ave Domina Angelorum,</l>
+            <pb n="63" facs="tcp:199356:38"/>
+            <l>Salve radix, salve porta;</l>
+            <l>Ex qua mundo lux est orta.</l>
+            <l>Gaude Virgo gloriosa,</l>
+            <l>Super omnes speciosa,</l>
+            <l>Vale ô valdè decora,</l>
+            <l>Et pro nobis Christum exora.</l>
+            <l>℣. Dignare me laudare te, Virgo sacrata.</l>
+            <l>℟. Da mihi virtutem contra hostes tuos.</l>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>Oremus.</head>
+            <p>COncede, misericors Deus, fragilitati nostrae praesidium, ut qui sanctae Dei ge<g ref="char:EOLhyphen"/>nitricis memoriam agimus, intercessionis ejus auxilio, à nostris iniquitatibus resur<g ref="char:EOLhyphen"/>gamus. Per eundem Christum Dominum nostrum. Amen.</p>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>A Pascha ad Octavam Pentecostes.</head>
+            <l>REgina Caeli laetare, alleluia,</l>
+            <l>Quia quem meruisti portare, alleluia.</l>
+            <pb n="65" facs="tcp:199356:39"/>
+            <l>Resurrexit sicut dixit, alleluia.</l>
+            <l>Ora pro nobis Deum, alleluia.</l>
+            <l>℣. Gaude &amp; laetare Virgo Maria, alleluia.</l>
+            <l>℟. Quia surrexit Dominus verè, alleluia.</l>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>Oremus.</head>
+            <p>DEus, qui per resurrectionem Filii tui Domini nostri Jesu Christi mundum laetificare dignatus es, praesta quaesumus, ut per ejus genitricem Virginem Mariam per<g ref="char:EOLhyphen"/>petuae capiamus gaudia vitae. Per eundem Christum Dominum nostrum. Amen.</p>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>Ab Octava Pentecostes usque ad Adventum.</head>
+            <p>SAlve Regina, mater misericordiae, vi<g ref="char:EOLhyphen"/>ta, dulcedo, &amp; spes nostra, salve,</p>
+            <p>Ad te clamamus exules filii Evae.</p>
+            <pb n="67" facs="tcp:199356:40"/>
+            <p>Ad te suspiramus gementes &amp; flentes in hac lachrymarum valle.</p>
+            <p>Eia ergo advocata nostra, illos tuos mise<g ref="char:EOLhyphen"/>cordes oculos ad nos converte.</p>
+            <p>Et Jesum benedictum fructum ventris tui nobis post hoc exilium ostende. O clemens, O pia, O dulcis Virgo Maria.</p>
+            <p>℣. Ora pro nobis sancta Dei Genitrix.</p>
+            <p>℟. Ʋt digni efficiamur promissionibus Christi.</p>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>Oremus.</head>
+            <p>OMnipotens sempiterne Deus, qui glo<g ref="char:EOLhyphen"/>riosae Virginis matris Mariae corpus &amp; animam ut dignum Filii tui habitaculum effici mereretur, Spiritu sancto cooperante,
+<pb n="69" facs="tcp:199356:41"/> praeparasti: da ut cujus commemoratione laetamur, ejus pia intercessione ab instanti<g ref="char:EOLhyphen"/>bus malis, &amp; à morte perpetua liberemur. Per eundem Christum Dominum nostrum. Amen.</p>
+         </div>
+         <div type="prayers">
+            <pb n="70" facs="tcp:199356:42"/>
+            <head>EVENING PRAYERS.</head>
+            <div xml:lang="eng" type="version">
+               <p>In the name of the Father and of the Son, and of the Ho<g ref="char:EOLhyphen"/>ly Ghost. Amen.</p>
+               <p>Blessed be the Ho<g ref="char:EOLhyphen"/>ly an individed Tri<g ref="char:EOLhyphen"/>nity now and ever and world without end. Amen.</p>
+               <p>Our Fater who art in heaven, &amp;c. <hi>p.</hi> 26. Hail Mary, &amp;c. 26. I believe in God, &amp;c. 27.</p>
+               <p>I confesse Almighty &amp;c. 28.</p>
+            </div>
+            <div xml:lang="lat" type="version">
+               <p>In nomine Patris &amp; Filii, &amp; Spiri<g ref="char:EOLhyphen"/>tus sancti Amen.</p>
+               <p>Benedicta sit san<g ref="char:EOLhyphen"/>cta &amp; individua Trinitas, &amp; nunc, &amp; semper, &amp; in sae<g ref="char:EOLhyphen"/>cula saeculorum. Amen.</p>
+               <p>Pater noster, &amp;c. <hi>p. 26.</hi>
+               </p>
+               <p>Ave Maria, &amp;c. <hi>26.</hi> Credo in Deum, &amp;c. <hi>27.</hi>
+               </p>
+               <p>Confiteor Deo, &amp;c. <hi>28.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="examination">
+            <head>AN EXAMEN OF CONSCIENCE CONSISTING IN FIVE POINTS,</head>
+            <div type="part">
+               <pb n="71" facs="tcp:199356:42"/>
+               <head>
+                  <hi>I. POINT.</hi> To thank God for all the favours we have received of him in general and in par<g ref="char:EOLhyphen"/>ticular for those we have received this very day.</head>
+               <p>WHat thanks shall I render you O Lord! for all the benefits, I have so liberaly received at your hands. You have been mindfull of me from all eternity; and haveing drawen me out of nothing, you have most mercyfully redeemed me with your most precious blood. You con<g ref="char:EOLhyphen"/>serve me at every moment, and dayly and hourly heap your graces and fa<g ref="char:EOLhyphen"/>vours upon me. Alas! what am I able. To do to returne my due acknow<g ref="char:EOLhyphen"/>ledgments to you O my God? for so many benefits! comme all ye Angels, and blessed Spirits, join in with me, to prayse, and thank, for his mani<g ref="char:EOLhyphen"/>fold mercys our great God: who hath, not disdained, to cast his eyes upon a so pitifull and wretched creature.</p>
+            </div>
+            <div type="part">
+               <pb n="72" facs="tcp:199356:43"/>
+               <head>
+                  <hi>II. POINT.</hi> To beg of God grace and light to know and detest our sins.</head>
+               <p>SOurce of eternal light, O Holy Ghost, dissipate the darkness that hids from me the ugliness and malice of sin. Give me O Lord such a horrour of it, that I may, if possible detest and abhor it, as much as you abhor it your self: and that I may appre<g ref="char:EOLhyphen"/>hend nothing so much as to commit it hereafter.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>III. POINT.</hi> To call our soul to an acount and examine in the sight of God all our thoughts, words, actions, omissions runing over all the hours of the day and weighing particularly the sins we fall oftnest in and are most inclined to</head>
+               <p>HEre a stop must be made that every one may examine his own
+<pb n="73" facs="tcp:199356:43"/> conscience this day hath been given us not to spend it idly but to em<g ref="char:EOLhyphen"/>ploy all of it for gods glory and at least some. Part of it in prayer. ware my first thoughts in the morning to God? did I mak my prayer? how did I behave the rest of the day towards God, my neighbour and myself in thoughts word, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>IV. POINT.</hi> To beg of God humbly pardon for all the sins of your life and particularly for the faults committed this day.</head>
+               <p>HEre I am O Lord! penetrated with, all the most sincere senti<g ref="char:EOLhyphen"/>ments of sorrow my faults can in<g ref="char:EOLhyphen"/>spire me; here I come with a truly humbled and contrit heart to ack<g ref="char:EOLhyphen"/>nowledge and detest them at your feet. Is it thus I answer my many<g ref="char:EOLhyphen"/>fold obligations to your infinite good<g ref="char:EOLhyphen"/>ness? O my God and that after the exces of your loue has been such as to make you shed your most precious
+<pb n="74" facs="tcp:199356:44"/> blood for my sake my ingratitude co<g ref="char:EOLhyphen"/>vers my face with confusion, in the sight of thy Saints, and Angels: in whose presence I humbly beg pardon hoping for mercy at your hands with time and grace to do penance.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>V. POINT.</hi> To purpose Firmely to amend and not to fall in the same faults again but to go<g ref="char:EOLhyphen"/>verne our selves better with the assi<g ref="char:EOLhyphen"/>stance of Gods grace.</head>
+               <p>O How sincerely do I wish O my God! that I had never of<g ref="char:EOLhyphen"/>fended you but seing? have been so unhappy as to incur your displeasure I shall shew by my behaviour and conduct hereafter, far different from what it hath been hither to, how sen<g ref="char:EOLhyphen"/>sible, I am of it, I heartely renounce at this very moment to what ever may be occasion to me of offinding your infinit goodness. I shal walk with chearfulness in the ways of your commandements and nothing shall
+<pb n="75" facs="tcp:199356:44"/> hold me, when it shall be question to serve you O my God: Give me strenght O sweet and amiable Saviour to put their my resolutions in exe<g ref="char:EOLhyphen"/>cution; and change so my heart that it may prove as faithfull to you in times to come as it has been unfaith<g ref="char:EOLhyphen"/>ful in times bygon.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <p>ALmighty God have mercy on us; and our sins for<g ref="char:EOLhyphen"/>given bring us to life everlasting. Amen.</p>
+            <p>Omnipotent, and mercyfull Lord gi<g ref="char:EOLhyphen"/>ve us pardon, abso<g ref="char:EOLhyphen"/>lution, and remis<g ref="char:EOLhyphen"/>sion of our sins. Amen.</p>
+            <p>℣. Vouchsafe O Lord this night.</p>
+            <p>℟. To keep us wi<g ref="char:EOLhyphen"/>thout
+<pb n="76" facs="tcp:199356:45"/> sin.</p>
+            <p>℣. Have mercy on us O Lord.</p>
+            <p>℟. Have mercy on us.</p>
+            <p>℣. Let thy mercy O Lord be upon us.</p>
+            <p>℟. As our hope is in thee.</p>
+            <p>℣. Lord hear my prayer.</p>
+            <p>℟. And let my cry come to the.</p>
+            <div type="part">
+               <head>Let us pray.</head>
+               <p>VIsit, we be<g ref="char:EOLhyphen"/>seech thee, O Lord, this habita<g ref="char:EOLhyphen"/>tion, and drive far from it all snares of the enimy? Let thy holy Angels dwell therin, who may keep us in peace and thy blessing be al<g ref="char:EOLhyphen"/>ways on us.</p>
+               <pb n="77" facs="tcp:199356:45"/>
+               <p>Through our Lord Jesus Christ. Amen.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>THE LITANY of the Saints.</head>
+            <p>LOrd have mer<g ref="char:EOLhyphen"/>cy on us.</p>
+            <p>Christ have mercy on us.</p>
+            <p>Lord have mercy on us.</p>
+            <p>Christ hear us.</p>
+            <p>Christ graciously hear us.</p>
+            <p>God the Father, Creator of the world, have mercy on us.</p>
+            <p>God the son, Re<g ref="char:EOLhyphen"/>deemer of the world, have mercy on us.</p>
+            <p>God the Holy Ghost, have mercy on us.</p>
+            <pb n="78" facs="tcp:199356:46"/>
+            <p>Holy Trinity one God, have mercy on us.</p>
+            <p>Holy Mary pray for us.</p>
+            <p>Holy mother of God, pray.</p>
+            <p>Holy Vigin of Vir<g ref="char:EOLhyphen"/>gins, pray.</p>
+            <p>Saint Michel, pray.</p>
+            <p>Saint Gabriel, pray.</p>
+            <p>Saint Raphael, pr.</p>
+            <p>All ye holy Angels and Archangels, pray for us.</p>
+            <p>All ye holy Orders of blessed spirits, pray for us.</p>
+            <p>Saint John Baptist, pray for us.</p>
+            <p>All ye Patriarches, and Prophets, pr.</p>
+            <p>Saint Peter, pray.</p>
+            <p>Saint Paul, pray.</p>
+            <p>Saint Andrew, pr</p>
+            <p>Saint James, pray.</p>
+            <pb n="79" facs="tcp:199356:46"/>
+            <p>Saint John, pray.</p>
+            <p>Saint Thomas, pr.</p>
+            <p>Saint Jams, pray.</p>
+            <p>Saint Philip, pray.</p>
+            <p>Saint Bartholomew, pray for us.</p>
+            <p>Saint Mathew, pr.</p>
+            <p>Saint Simon, pray.</p>
+            <p>Saint Thadee, pr.</p>
+            <p>Saint Mathias, pr.</p>
+            <p>Saint Barnaby, pr.</p>
+            <p>Saint Luke, pray.</p>
+            <p>Saint Marke, pray.</p>
+            <p>All ye holy Apostles and Evangelistes, pray for us.</p>
+            <p>All ye holy disciples of our Lord, pray for us.</p>
+            <p>All holy Innocents, pray.</p>
+            <p>Saint Stephen, pray.</p>
+            <p>Saint Laurence, pray for us.</p>
+            <p>Saint Vincent, pray.</p>
+            <pb n="80" facs="tcp:199356:47"/>
+            <p>Saint Fabian, and Sebastian, pray.</p>
+            <p>Saint John and Paul, pray for us.</p>
+            <p>Saint Cosme and Damien, pray.</p>
+            <p>Saint Gervase and Protase, pray.</p>
+            <p>All ye Holy Mar<g ref="char:EOLhyphen"/>tyrs, pray.</p>
+            <p>Saint Silvester, pray for us.</p>
+            <p>Saint Gregory, pr.</p>
+            <p>Saint Ambrose, pr.</p>
+            <p>Saint Augustin, pray for us.</p>
+            <p>Saint Jerome, pray.</p>
+            <p>Saint Martin, pray.</p>
+            <p>Saint Nicolas, pray.</p>
+            <p>All ye holy bishops and Confessors, pray for us.</p>
+            <p>All ye holy Doctors,
+<pb n="81" facs="tcp:199356:47"/> pray for us.</p>
+            <p>Saint Bennet, pray.</p>
+            <p>Saint Antony, pray.</p>
+            <p>Saint Bernard, pray.</p>
+            <p>Saint Dominick, pray for us.</p>
+            <p>Saint Francis, pray.</p>
+            <p>Saint Ignatius, pray.</p>
+            <p>Saint Francis Xave<g ref="char:EOLhyphen"/>rius, pray.</p>
+            <p>Saint Francis Bor<g ref="char:EOLhyphen"/>gia, pray.</p>
+            <p>All ye holy Priests and Levites, pray.</p>
+            <p>All ye holy Monks Eremites, pray.</p>
+            <p>Saint Mary Mag<g ref="char:EOLhyphen"/>dalen, pray.</p>
+            <p>Saint Agatha, pray.</p>
+            <p>Saint Lucy, pray.</p>
+            <p>Saint Agnes, pray.</p>
+            <p>Saint Cecily, pray.</p>
+            <pb n="82" facs="tcp:199356:48"/>
+            <p>Saint Katherine, pr.</p>
+            <p>Saint Anastasia, pr.</p>
+            <p>All ye holy virgins and Widows, pr.</p>
+            <p>All ye men and wo<g ref="char:EOLhyphen"/>men saints of God, make intercession for us.</p>
+            <p>Be mercifull unto us Spare us, O Lord.</p>
+            <p>Be mercifull unto us graciously hear us O Lord.</p>
+            <p>From all evil O Lord deliver us.</p>
+            <p>From all sin, O Lord.</p>
+            <p>From thy wrath, O.</p>
+            <p>From sudden and unprovided death O Lord.</p>
+            <p>From the deceits of the devill, O Lord.</p>
+            <p>From anger, hatred, and ill will, O.</p>
+            <pb n="83" facs="tcp:199356:48"/>
+            <p>From the spirit of fornication, O</p>
+            <p>From lightning and tempests, O Lord.</p>
+            <p>From everlasting, death, O Lord.</p>
+            <p>Through the myste<g ref="char:EOLhyphen"/>ry of thy holy in<g ref="char:EOLhyphen"/>carnation, O Lord.</p>
+            <p>Through thy co<g ref="char:EOLhyphen"/>ming, O Lord.</p>
+            <p>Through thy Nati<g ref="char:EOLhyphen"/>vity, O Lord.</p>
+            <p>Through thy bap<g ref="char:EOLhyphen"/>tism and holy fa<g ref="char:EOLhyphen"/>sting, O Lord.</p>
+            <p>Through thy cross and passion. O.</p>
+            <p>Through thy death and burial, O.</p>
+            <p>Through thy holy Resurrection, O Lord.</p>
+            <p>Through thy won<g ref="char:EOLhyphen"/>derfull Ascen<g ref="char:EOLhyphen"/>sion, O Lord.</p>
+            <pb n="84" facs="tcp:199356:49"/>
+            <p>Through the co<g ref="char:EOLhyphen"/>ming of the holy Ghost the comfor<g ref="char:EOLhyphen"/>ter, O Lord.</p>
+            <p>In the day of judg<g ref="char:EOLhyphen"/>ment, O Lord.</p>
+            <p>We sinners do be<g ref="char:EOLhyphen"/>seeech the to hear us.</p>
+            <p>That thou spare us, we beseech.</p>
+            <p>That thou pardon us, we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to bring us to true penance, we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to govern and preserve thy holy Church, we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to preserve our Apostolik Prela<g ref="char:EOLhyphen"/>te, and all Eccle<g ref="char:EOLhyphen"/>siastical orders, in holy Religion. we.</p>
+            <pb n="85" facs="tcp:199356:49"/>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to humble the enemys of thy Church, we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to give peace and true concord to Christian Kings and Prin<g ref="char:EOLhyphen"/>ces, we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to grant peace and unity to all christian people, we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to comfort and keep us in thy ho<g ref="char:EOLhyphen"/>ly service, we.</p>
+            <p>That thow lift up our minds to hea<g ref="char:EOLhyphen"/>venly desires, we.</p>
+            <p>That thou give to all our benefac<g ref="char:EOLhyphen"/>tors life everlas<g ref="char:EOLhyphen"/>ting, we.</p>
+            <pb n="86" facs="tcp:199356:50"/>
+            <p>That thou deliver our souls the souls of our Bretheren kinsfolk, and be<g ref="char:EOLhyphen"/>nefactors from e<g ref="char:EOLhyphen"/>ternal damna<g ref="char:EOLhyphen"/>tion, we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to give and preserve the fruits of the earth we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe to give eternal rest to the faith<g ref="char:EOLhyphen"/>full departed, we.</p>
+            <p>That thou vouchsa<g ref="char:EOLhyphen"/>fe graciously to hear us, we.</p>
+            <p>Son of God. we.</p>
+            <p>Lamb of god that takest away the sins of the world, spare us O Lord.</p>
+            <p>Lamb of God that takest away the sins of the world,
+<pb n="87" facs="tcp:199356:50"/> hear us O Lord.</p>
+            <p>Lamb of God that takest away the sins of the world, have mercy on us.</p>
+            <p>Christ hear us.</p>
+            <p>Christ graciously hear us.</p>
+            <p>Lord have mercy on on us.</p>
+            <p>Christ have mercy on us.</p>
+            <p>Lord have mercy on us.</p>
+            <p>Our Father &amp;c. <hi>in secret.</hi>
+            </p>
+            <p>℣. And lead us not in to temptation.</p>
+            <p>℟. But deliver us from all evill.</p>
+            <div type="part">
+               <head>
+                  <hi>Psalme</hi> 69.</head>
+               <p>O God intend unto my help: O Lord make hast to help me.</p>
+               <p>Let them be con<g ref="char:EOLhyphen"/>founded
+<pb n="88" facs="tcp:199356:51"/> and asha<g ref="char:EOLhyphen"/>med, that seeke my soul.</p>
+               <p>Let them be turned away backward, and be ashamed that wil me evils.</p>
+               <p>Let them be turned furthwith ashamed, that say to me: wel, wel.</p>
+               <p>Let all that seeke thee rejoyce, and let them say always: our Lord be magni<g ref="char:EOLhyphen"/>fied, who loue thy salvation.</p>
+               <p>But I am needy and poore: O God help me,</p>
+               <p>Thou art my helper and deliverer, O Lord be not slark. Glory be to, &amp;c.</p>
+               <p>℣. Save thy ser<g ref="char:EOLhyphen"/>vants.</p>
+               <pb n="89" facs="tcp:199356:51"/>
+               <p>℟. O my God who hope in thee.</p>
+               <p>℣. Be unto us O Lord a tower of strenght.</p>
+               <p>℟. From the face of the enemy.</p>
+               <p>℣. Let not the ene<g ref="char:EOLhyphen"/>my any way pre<g ref="char:EOLhyphen"/>vaile against us.</p>
+               <p>℟. And suffer not the son of iniquity to do us harme.</p>
+               <p>℣. Dail not with us O Lord acording to our sins.</p>
+               <p>℟. And reward us not acording to our iniquitys.</p>
+               <p>℣. Let us pray for our Pope N.</p>
+               <p>℟. Lord preserve him, vivify him, ma<g ref="char:EOLhyphen"/>ke him happy on earth, and deliver his soul from his enemys.</p>
+               <pb n="90" facs="tcp:199356:52"/>
+               <p>℣. Let us pray for our benefactors.</p>
+               <p>℟. Vouchsafe O Lord to give to all our benefactors for thy names sake life everlasting.</p>
+               <p>℣. Let us pray for the faithfull decea<g ref="char:EOLhyphen"/>sed.</p>
+               <p>℟. Give them O Lord eternal rest and let everlasting light shine to them.</p>
+               <p>℣. Let them rest in peace. ℟. Amen.</p>
+               <p>℣. For our brethren that are absent.</p>
+               <p>℟. Save O Lord thy servants who hope in thee.</p>
+               <p>℣ Send them help O Lord from thy sanctuary.</p>
+               <p>℟. And from Sion
+<pb n="19" facs="tcp:199356:52"/> protect them.</p>
+               <p>℣. Lord hear my prayer.</p>
+               <p>℟. And let my cry come unto thee.</p>
+            </div>
+            <div type="part">
+               <head>Let us pray.</head>
+               <p>O Lord whose nature is to pardon and always to be mercyfull, re<g ref="char:EOLhyphen"/>ceive my prayer that we and all your servants, who ly bound in the fetters of sin, may through your mercy and cle<g ref="char:EOLhyphen"/>mency be set free.</p>
+            </div>
+            <div type="part">
+               <p>HEar we be<g ref="char:EOLhyphen"/>seech O Lord the prayers of thy petioners, and for<g ref="char:EOLhyphen"/>give the sins of tho<g ref="char:EOLhyphen"/>se tha tconfess to the, to the end we may obtain both forgiveness and peace.</p>
+            </div>
+            <div type="part">
+               <pb n="92" facs="tcp:199356:53"/>
+               <p>VOuchsafe O Lord, clement<g ref="char:EOLhyphen"/>ly to shew unto us thy unspeakable mercy, and deliver us not only from all our sins but also from the pains we deserve for them.</p>
+            </div>
+            <div type="part">
+               <p>O God who is of<g ref="char:EOLhyphen"/>fended by sin and pacifyed by pe<g ref="char:EOLhyphen"/>nance, Look gra<g ref="char:EOLhyphen"/>ciously on the pra<g ref="char:EOLhyphen"/>yers of thy people and avert the scour<g ref="char:EOLhyphen"/>ge of thy wrath we deserve for our offences.</p>
+            </div>
+            <div type="part">
+               <p>ALmighty and ever living God have mercy on thy servant N. our Pope, and direct him through thy mercy in the way of eter<g ref="char:EOLhyphen"/>nal salvation that
+<pb n="93" facs="tcp:199356:53"/> by thy favour he may desire what is pleasing to thee, and with all his power accomplish it.</p>
+            </div>
+            <div type="part">
+               <p>O God, from whom are all holy desires, right counsels and just works: give to thy servants that peace the world can not give them, that our hearts being addi<g ref="char:EOLhyphen"/>cted to thy com<g ref="char:EOLhyphen"/>mandements, and the fear of enemys taken away we may under thy protec<g ref="char:EOLhyphen"/>tion injoy peaceable times.</p>
+            </div>
+            <div type="part">
+               <p>BUrne O Lord our hearts and Loynes with the fire of the holy Ghost: that we may serve and please you with
+<pb n="94" facs="tcp:199356:54"/> a chast body and a pure mind.</p>
+            </div>
+            <div type="part">
+               <p>O God the ma<g ref="char:EOLhyphen"/>ker and Re<g ref="char:EOLhyphen"/>deemer of all faith<g ref="char:EOLhyphen"/>full, grant to the souls of thy ser<g ref="char:EOLhyphen"/>vants, remission of all their sins, that by pious supplications they may obtain the pardon they have always desired.</p>
+            </div>
+            <div type="part">
+               <p>PRevent, we be<g ref="char:EOLhyphen"/>seech thee O Lord our actions with thy holy inspi<g ref="char:EOLhyphen"/>rations, and carry them on by thy assi<g ref="char:EOLhyphen"/>stance; that all our prayers and works may begin always from thee ad by thee be happely ended.</p>
+            </div>
+            <div type="part">
+               <p>ALmighty and eternal God,
+<pb n="95" facs="tcp:199356:54"/> whose dominion ex<g ref="char:EOLhyphen"/>tendeth to both the living and the dead, and who hast mercy on all whom by their faith and works thou hast for<g ref="char:EOLhyphen"/>seen shall be thin, we humbly beseech thee, that those for whom we have re<g ref="char:EOLhyphen"/>solved to pray, wi<g ref="char:EOLhyphen"/>ther they be in this life or in the life to come may, through thy gracious cle<g ref="char:EOLhyphen"/>mency, by the inter<g ref="char:EOLhyphen"/>cession of all thy saints obtain the re<g ref="char:EOLhyphen"/>mission of all their sins. Through our Lord Jesus Christ son who with thee liveth and reigneth in the unity of the holy Ghost through<g ref="char:EOLhyphen"/>out all ages. Amen.</p>
+               <pb n="96" facs="tcp:199356:55"/>
+               <p>℣. O Lord hear my prayer.</p>
+               <p>℟. And let my cry come unto thee.</p>
+               <p>℣. Hear us O Almi<g ref="char:EOLhyphen"/>ghty and mercifull Lord.</p>
+               <p>℟. Amen.</p>
+               <p>℣. The souls of the faithfull through the mercy of God rest in peace.</p>
+               <p>℟. Amen.</p>
+               <p>℣. The assistance of God be always with us.</p>
+               <p>℟. Amen.</p>
+            </div>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <p>MIsereatur no<g ref="char:EOLhyphen"/>stri omnipo<g ref="char:EOLhyphen"/>tens Deus, &amp; di<g ref="char:EOLhyphen"/>missis peccatis no<g ref="char:EOLhyphen"/>stris perducat nos ad vitam aeternam. Amen.</p>
+            <p>Indulgentiam, ab<g ref="char:EOLhyphen"/>solutionem &amp; re<g ref="char:EOLhyphen"/>missionem omnium peccatorum nostro<g ref="char:EOLhyphen"/>rum tribuat nobis omnipotens &amp; mi<g ref="char:EOLhyphen"/>sericors Dominus. Amen.</p>
+            <p>℣. Dignare Domi<g ref="char:EOLhyphen"/>ne nocte ista.</p>
+            <p>℟. Sine peccato nos
+<pb n="76" facs="tcp:199356:45"/> custodire.</p>
+            <p>℣. Miserere nostri, Domine.</p>
+            <p>℟. Miserere no<g ref="char:EOLhyphen"/>stri.</p>
+            <p>℣. Fiat misericor<g ref="char:EOLhyphen"/>dia tua, Domine, super nos.</p>
+            <p>℟. Quemadmo<g ref="char:EOLhyphen"/>dum speravimus in te.</p>
+            <p>℣. Domine exaudi orationem meam.</p>
+            <p>℟. Et clamor meus ad te veniat.</p>
+            <div type="part">
+               <head>Oremus.</head>
+               <p>VIsita, quaesu<g ref="char:EOLhyphen"/>mus, Domine, habitationem istam, &amp; omnes insidias inimici ab ea lon<g ref="char:EOLhyphen"/>ge repelle: Angeli tui sancti habitent in ea, qui nos in pace custodiant: &amp; benedictio tua sit super nos semper.</p>
+               <pb n="77" facs="tcp:199356:45"/>
+               <p>Per Dominum no<g ref="char:EOLhyphen"/>strum Jesum Chri<g ref="char:EOLhyphen"/>stum. Amen.</p>
+            </div>
+         </div>
+         <div xml:lang="lat" type="prayer">
+            <head>LITANIAE Sanctorum.</head>
+            <p>KYrie eleison.</p>
+            <p>Christe eleison.</p>
+            <p>Kyrie eleison.</p>
+            <p>Christe audi nos.</p>
+            <p>Christe exaudi nos.</p>
+            <p>Pater de coelis Deus, miserere nobis.</p>
+            <p>Fili Redemptor mundi Deus, mi<g ref="char:EOLhyphen"/>serere nobis.</p>
+            <p>Spiritus Sancte Deus, miserere no<g ref="char:EOLhyphen"/>bis.</p>
+            <pb n="78" facs="tcp:199356:46"/>
+            <p>Sancta Trinitas u<g ref="char:EOLhyphen"/>nus Deus, misere<g ref="char:EOLhyphen"/>re nobis.</p>
+            <p>Sancta Maria, ora pro nobis.</p>
+            <p>Sancta Dei Geni<g ref="char:EOLhyphen"/>trix, ora.</p>
+            <p>Sancta Virgo Virgi<g ref="char:EOLhyphen"/>num, ora.</p>
+            <p>Sancte Michael, ora.</p>
+            <p>Sancte Gabriel, ora.</p>
+            <p>Sancte Raphael, ora.</p>
+            <p>Omnes sancti Ange<g ref="char:EOLhyphen"/>li, &amp; Archangeli, orate pro nobis.</p>
+            <p>Omnes sancti bea<g ref="char:EOLhyphen"/>torum spirituum Ordines, orate.</p>
+            <p>Sancte Joannes Ba<g ref="char:EOLhyphen"/>ptista, ora.</p>
+            <p>Omnes sancti Pa<g ref="char:EOLhyphen"/>triarchae, &amp; Pro<g ref="char:EOLhyphen"/>phetae, orate.</p>
+            <p>Sancte Petre, ora.</p>
+            <p>Sancte Paule, ora.</p>
+            <p>Sancte Andrea, or.</p>
+            <p>Sancte Jacobe, ora.</p>
+            <pb n="79" facs="tcp:199356:46"/>
+            <p>Sancte Joannes, ora.</p>
+            <p>Sancte Thoma, ora.</p>
+            <p>Sancte Jacobe, ora.</p>
+            <p>Sancte Philippe, or.</p>
+            <p>Sancte Bartholomaee, ora pro nobis.</p>
+            <p>Sancte Matthaee, or.</p>
+            <p>Sancte Simon, ora.</p>
+            <p>Sancte Thadaee, ora.</p>
+            <p>Sancte Mathia, ora.</p>
+            <p>Sancte Barnaba, or.</p>
+            <p>Sancte Luca, ora.</p>
+            <p>Sancte Marce, ora.</p>
+            <p>Omnes sancti Apo<g ref="char:EOLhyphen"/>stoli &amp; Evange<g ref="char:EOLhyphen"/>listae, orate</p>
+            <p>Omnes sancti disci<g ref="char:EOLhyphen"/>puli Domini, o<g ref="char:EOLhyphen"/>rate pro nobis.</p>
+            <p>Omnes sancti Inno<g ref="char:EOLhyphen"/>centes, orate.</p>
+            <p>Sancte Stephane, ora pro nobis.</p>
+            <p>Sancte Laurenti, ora pro nobis.</p>
+            <p>Sancte Vincenti, ora pro nobis.</p>
+            <pb n="80" facs="tcp:199356:47"/>
+            <p>Sancti Fabiane &amp; Sebastiane, ora<g ref="char:EOLhyphen"/>te pro nobis.</p>
+            <p>Sancti Ioannes &amp; Paule, orate.</p>
+            <p>Sancti Cosma &amp; Damiane, orate.</p>
+            <p>Sancti Gervasi &amp; Protasi, orate.</p>
+            <p>Omnes sancti Mar<g ref="char:EOLhyphen"/>tyres, orate.</p>
+            <p>Sancte Sylvester, ora pro nobis.</p>
+            <p>Sancte Gregori, ora.</p>
+            <p>Sancte Ambrosi, ora pro nobis.</p>
+            <p>Sancte Augustine, ora pro nobis.</p>
+            <p>Sancte Hieronyme, ora pro nobis.</p>
+            <p>Sancte Martine, ora pro nobis.</p>
+            <p>Sancte Nicolae, ora.</p>
+            <p>Omnes sancti Pon<g ref="char:EOLhyphen"/>tifices, &amp; Con<g ref="char:EOLhyphen"/>fessores, orate.</p>
+            <p>Omnes sancti Doc<g ref="char:EOLhyphen"/>tores,
+<pb n="81" facs="tcp:199356:47"/> orate.</p>
+            <p>Sancte Benedicte, ora pro nobis.</p>
+            <p>Sancte Antoni, ora.</p>
+            <p>Sancte Bernarde, ora pro nobis.</p>
+            <p>Sancte Dominice, ora pro nobis.</p>
+            <p>Sancte Francisce, ora pro nobis.</p>
+            <p>Sancte Ignati, ora.</p>
+            <p>Sancte Francisce Xaveri, ora.</p>
+            <p>Sancte Francisce Borgia, ora.</p>
+            <p>Omnes sancti Sa<g ref="char:EOLhyphen"/>cerdotes &amp; Le<g ref="char:EOLhyphen"/>vitae, orate.</p>
+            <p>Omnes sancti Mo<g ref="char:EOLhyphen"/>nachi &amp; Eremi<g ref="char:EOLhyphen"/>tae, orate.</p>
+            <p>Sancta Maria Mag<g ref="char:EOLhyphen"/>dalena, ora.</p>
+            <p>Sancta Agatha, ora.</p>
+            <p>Sancta Lucia, ora.</p>
+            <p>Sancta Agnes, ora.</p>
+            <p>Sancta Caecilia, ora.</p>
+            <pb n="82" facs="tcp:199356:48"/>
+            <p>Sancta Catharina, ora pro nobis.</p>
+            <p>Sancta Anastasia, ora.</p>
+            <p>Omnes sanctae Vir<g ref="char:EOLhyphen"/>gines &amp; viduae, or.</p>
+            <p>Omnes sancti &amp; sanctae Dei, in<g ref="char:EOLhyphen"/>tercedite pro nobis</p>
+            <p>Propitius est, parce nobis Domine.</p>
+            <p>Propitius esto, exau<g ref="char:EOLhyphen"/>di nos Domine.</p>
+            <p>Ab omni malo, li<g ref="char:EOLhyphen"/>bera nos Domine.</p>
+            <p>Ab omni peccato, li.</p>
+            <p>Ab ira tua, libera.</p>
+            <p>A subitanea &amp; im<g ref="char:EOLhyphen"/>provisa morte, li<g ref="char:EOLhyphen"/>bera nos Domine.</p>
+            <p>Ab insidiis diaboli, libera nos Domine.</p>
+            <p>Ab ira &amp; odio, &amp; omni mala volun<g ref="char:EOLhyphen"/>tate, libera.</p>
+            <pb n="83" facs="tcp:199356:48"/>
+            <p>A spiritu fornicatio<g ref="char:EOLhyphen"/>nis, libera.</p>
+            <p>A fulgure &amp; tempe<g ref="char:EOLhyphen"/>state, libera.</p>
+            <p>A morte perpetua, libera.</p>
+            <p>Per mysterium san<g ref="char:EOLhyphen"/>ctae incarnationis tuae, libera.</p>
+            <p>Per adventum tuum libera.</p>
+            <p>Per nativitatem tuam, libera.</p>
+            <p>Per baptismum &amp; sanctum jejunium tuum, libera.</p>
+            <p>Per crucem &amp; pas<g ref="char:EOLhyphen"/>sionem tuam, lib.</p>
+            <p>Per mortem &amp; se<g ref="char:EOLhyphen"/>pulturam tuam, libera.</p>
+            <p>Per sanctam Resur<g ref="char:EOLhyphen"/>rectionem tuam, libera.</p>
+            <p>Per admirabilem Ascensionem tuam libera.</p>
+            <pb n="84" facs="tcp:199356:49"/>
+            <p>Per adventum Spi<g ref="char:EOLhyphen"/>ritus sancti para<g ref="char:EOLhyphen"/>cleti, libera.</p>
+            <p>In die judicii, li<g ref="char:EOLhyphen"/>bera nos Domine.</p>
+            <p>Peccatores, te roga<g ref="char:EOLhyphen"/>mus audi nos.</p>
+            <p>Ʋt nobis parcas, te.</p>
+            <p>Ʋt nobis indul<g ref="char:EOLhyphen"/>geas, te.</p>
+            <p>Ʋt ad veram poeni<g ref="char:EOLhyphen"/>tentiam nos per<g ref="char:EOLhyphen"/>ducere digneris, te.</p>
+            <p>Ʋt Ecclesiam tuam sanctam regere &amp; conservare digne<g ref="char:EOLhyphen"/>ris, te.</p>
+            <p>Ʋt domnū Aposto<g ref="char:EOLhyphen"/>licum, &amp; omnes Ecclesiasticos or<g ref="char:EOLhyphen"/>dines in sancta religione conser<g ref="char:EOLhyphen"/>vare digneris, te.</p>
+            <pb n="85" facs="tcp:199356:49"/>
+            <p>Ʋt inimicos sanctae Ecclesiae humiliare digneris, te.</p>
+            <p>Ʋt Regibus &amp; Prin<g ref="char:EOLhyphen"/>cipibus Christia<g ref="char:EOLhyphen"/>nis pacem, &amp; veram concor<g ref="char:EOLhyphen"/>diam donare di<g ref="char:EOLhyphen"/>gneris, te.</p>
+            <p>Ʋt cuncto populo Christiano pa<g ref="char:EOLhyphen"/>cem, &amp; unitatem largiri digneris, te.</p>
+            <p>Ʋt nosmetipsos in tuo sancto servi<g ref="char:EOLhyphen"/>tio confortare &amp; conservare di<g ref="char:EOLhyphen"/>gneris, te.</p>
+            <p>Ʋt mentes nostras ad caelestia desi<g ref="char:EOLhyphen"/>deria erigas, te.</p>
+            <p>Vt omnibus benefa<g ref="char:EOLhyphen"/>ctoribus nostris sempiterna bona retribuas, te.</p>
+            <pb n="86" facs="tcp:199356:50"/>
+            <p>Vt animas nostras, fratrum, propin<g ref="char:EOLhyphen"/>quorum, &amp; be<g ref="char:EOLhyphen"/>nefactorum no<g ref="char:EOLhyphen"/>strorum ab aeter<g ref="char:EOLhyphen"/>na damnatione eripias, te.</p>
+            <p>Vt fructus terrae da<g ref="char:EOLhyphen"/>re &amp; conservare digneris, te.</p>
+            <p>Vt omnibus fideli<g ref="char:EOLhyphen"/>bus defunctis re<g ref="char:EOLhyphen"/>quiem aeternā do<g ref="char:EOLhyphen"/>nare digneris, te.</p>
+            <p>Vt nos exaudire di<g ref="char:EOLhyphen"/>gneris, te.</p>
+            <p>Fili Dei, te.</p>
+            <p>Agnus Dei qui tol<g ref="char:EOLhyphen"/>lis peccata mundi, parce nobis Domi<g ref="char:EOLhyphen"/>ne.</p>
+            <p>Agnus Dei qui tol<g ref="char:EOLhyphen"/>lis peccata mundi, exaudi nos Domi<g ref="char:EOLhyphen"/>ne.</p>
+            <pb n="87" facs="tcp:199356:50"/>
+            <p>Agnus Dei qui tol<g ref="char:EOLhyphen"/>lis peccata mundi, miserere nobis.</p>
+            <p>Christe audi nos.</p>
+            <p>Christe exaudi nos.</p>
+            <p>Kyrie eleison.</p>
+            <p>Christe eleison.</p>
+            <p>Kyrie eleison.</p>
+            <p>Pater noster &amp;c. se<g ref="char:EOLhyphen"/>cretò.</p>
+            <p>℣. Et ne nos indu<g ref="char:EOLhyphen"/>cas in tentationem.</p>
+            <p>℟. Sed libera nos à malo.</p>
+            <div xml:lang="lat" type="part">
+               <head>Psalmus 69.</head>
+               <p>DEus in adju<g ref="char:EOLhyphen"/>torium meum intende: Domine ad adjuvandum me fe<g ref="char:EOLhyphen"/>stina.</p>
+               <p>Confundantur &amp;
+<pb n="88" facs="tcp:199356:51"/> revereantur: qui quaerunt animam meam.</p>
+               <p>Avertantur retror<g ref="char:EOLhyphen"/>sum &amp; erubescant qui volunt mihi mala.</p>
+               <p>Avertantur statim erubescentes: qui dicunt mihi, euge, euge.</p>
+               <p>Exultent &amp; laeten<g ref="char:EOLhyphen"/>tur in te omnes, qui quaerunt te: &amp; di<g ref="char:EOLhyphen"/>cant semper, Ma<g ref="char:EOLhyphen"/>gnificetur Dominus, qui diligunt saluta<g ref="char:EOLhyphen"/>re tuum.</p>
+               <p>Ego verò egenus, &amp; pauper sum: Deus adjuva me.</p>
+               <p>Adjutor meus, &amp; liberator meus es tu: Domine ne moreris. Gloria Patri, &amp;c.</p>
+               <p>℣. Salvos fac ser<g ref="char:EOLhyphen"/>vos tuos.</p>
+               <pb n="89" facs="tcp:199356:51"/>
+               <p>℟. Deus meus spe<g ref="char:EOLhyphen"/>rantes in te.</p>
+               <p>℣. Esto nobis Do<g ref="char:EOLhyphen"/>mine tutris fortitu<g ref="char:EOLhyphen"/>dinis.</p>
+               <p>℟. A facie inimici.</p>
+               <p>℣. Nihil proficiat inimicus in nobis.</p>
+               <p>℟. Et filius iniqui<g ref="char:EOLhyphen"/>tatis non apponat nocere nobis.</p>
+               <p>℣. Domine non se<g ref="char:EOLhyphen"/>cundum peccata no<g ref="char:EOLhyphen"/>stra facias nobis.</p>
+               <p>℟. Neque secun<g ref="char:EOLhyphen"/>dum iniquitates no<g ref="char:EOLhyphen"/>stras retribuas nobis</p>
+               <p>℣. Oremus pro Pon<g ref="char:EOLhyphen"/>tifice nostro N.</p>
+               <p>℟. Dominus con<g ref="char:EOLhyphen"/>servet eum &amp; vivi<g ref="char:EOLhyphen"/>ficet cum, &amp; bea<g ref="char:EOLhyphen"/>tum faciat eum in terra, &amp; non tradat eum in animam in<g ref="char:EOLhyphen"/>imicorum
+<pb n="90" facs="tcp:199356:52"/> ejus.</p>
+               <p>℣ Oremus pro be<g ref="char:EOLhyphen"/>factoribus nostris.</p>
+               <p>℟. Retribuere di<g ref="char:EOLhyphen"/>gnare Domine om<g ref="char:EOLhyphen"/>nibus nobis bona fa<g ref="char:EOLhyphen"/>cientibus propter nomen tuum vi<g ref="char:EOLhyphen"/>tam aeternam.</p>
+               <p>℣. Oremus pro fide<g ref="char:EOLhyphen"/>libus defunctis.</p>
+               <p>℟. Requiem aeter<g ref="char:EOLhyphen"/>nam dona eis Do<g ref="char:EOLhyphen"/>mine, &amp; lux per<g ref="char:EOLhyphen"/>petua luceat eis.</p>
+               <p>℣. Requiescant in pace. ℟. Amen.</p>
+               <p>℣. Pro fratribus nostris absentibus.</p>
+               <p>℟. Salvos fac ser<g ref="char:EOLhyphen"/>vos tuos, Deus meus sperantes in te.</p>
+               <p>℣. Mitte eis Domi<g ref="char:EOLhyphen"/>ne auxilium de sancto.</p>
+               <p>℟. Et de Sion tue<g ref="char:EOLhyphen"/>re
+<pb n="19" facs="tcp:199356:52"/> eos.</p>
+               <p>℣. Domine exaudi orationem meam.</p>
+               <p>℟. Et clamor meus ad te veniat.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <head>Oremus.</head>
+               <p>DEus, cui pro<g ref="char:EOLhyphen"/>prium est mi<g ref="char:EOLhyphen"/>sereri semper, &amp; parcere, suscipe de<g ref="char:EOLhyphen"/>precationem nostrā: ut nos &amp; omnes fa<g ref="char:EOLhyphen"/>mulos tuos, quos de<g ref="char:EOLhyphen"/>lictorū catena con<g ref="char:EOLhyphen"/>stringit, miseratio tuae pietatis clemen<g ref="char:EOLhyphen"/>ter absolvat.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>EXaudi quaesu<g ref="char:EOLhyphen"/>mus Domine, supplicum preces, &amp; confitentium tibi parce peccatis: ut pariter nobis indul<g ref="char:EOLhyphen"/>gentiam tribuas be<g ref="char:EOLhyphen"/>nignus &amp; pacem.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <pb n="92" facs="tcp:199356:53"/>
+               <p>INeffabilem no<g ref="char:EOLhyphen"/>bis, Domine, mi<g ref="char:EOLhyphen"/>sericordiam tuam clementer ostende, ut simul nos &amp; à peccatis omnibus e<g ref="char:EOLhyphen"/>xuas, &amp; à poenis, quas pro his mere<g ref="char:EOLhyphen"/>mur cripias.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>DEus, qui cul<g ref="char:EOLhyphen"/>pa offenderis, poenitentia placa<g ref="char:EOLhyphen"/>ris, preces populi tui supplicantis pro<g ref="char:EOLhyphen"/>pitiùs respice: &amp; flagella tuae iracun<g ref="char:EOLhyphen"/>diae, quae pro pecca<g ref="char:EOLhyphen"/>tis nostris meremur, averte.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>OMnipotēs sem<g ref="char:EOLhyphen"/>piterne Deus, miserere famulo tuo Pontifici nostro N. &amp; dirige eum se<g ref="char:EOLhyphen"/>cundum tuam cle<g ref="char:EOLhyphen"/>mentiam in viam salutis aeternae: ut te
+<pb n="93" facs="tcp:199356:53"/> donante tibi placita cupiat, &amp; tota vir<g ref="char:EOLhyphen"/>tute perficiat.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>DEus, à quo san<g ref="char:EOLhyphen"/>cta desideria, re<g ref="char:EOLhyphen"/>cta consilia, &amp; ju<g ref="char:EOLhyphen"/>sta sunt opera: da servis tuis illam quam mundus dare non potest pacem: ut &amp; corda nostra mā<g ref="char:EOLhyphen"/>datis tuis dedita, &amp; hostium sublata for<g ref="char:EOLhyphen"/>midine sint tua pro<g ref="char:EOLhyphen"/>tectione tranquilla.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>VRe igne sancti Spiritus renes nostros, &amp; cor no<g ref="char:EOLhyphen"/>strum Domine: ut tibi casto corpore serviamus, &amp; mun<g ref="char:EOLhyphen"/>do
+<pb n="94" facs="tcp:199356:54"/> corde placeamus.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>FIdelium Deus o<g ref="char:EOLhyphen"/>mnium conditor &amp; redemptor, ani<g ref="char:EOLhyphen"/>mabus famulorum, famularumque tua<g ref="char:EOLhyphen"/>rum remissionē cun<g ref="char:EOLhyphen"/>ctorum tribue pecca<g ref="char:EOLhyphen"/>torum: ut indulgen<g ref="char:EOLhyphen"/>tiam, quam semper optaverunt, piis supplicationibus consequantur.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>ACtiones nostras quaesumus Do<g ref="char:EOLhyphen"/>mine, aspirando praeveni, &amp; adju<g ref="char:EOLhyphen"/>vando prosequere: ut cuncta nostra o<g ref="char:EOLhyphen"/>ratio &amp; operatio à te semper incipiat, &amp; per te coepta finiatur.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>OMnipotens sem<g ref="char:EOLhyphen"/>piterne Deus, qui
+<pb n="95" facs="tcp:199356:54"/> vivorum dominaris simul &amp; mortuorū, omniumque misere<g ref="char:EOLhyphen"/>ris, quos tuos fide &amp; opere futuros esse praenoscis, te suppli<g ref="char:EOLhyphen"/>ces exoramus: ut pro quibus effūdere pre<g ref="char:EOLhyphen"/>ces decrevimus, quosque vel praesens saeculum adhuc in carne retinet, vel futurum jam exutos corpore suscepit, in<g ref="char:EOLhyphen"/>tercedentibus omni<g ref="char:EOLhyphen"/>bus sanctis tuis, pietatis tuae clemen<g ref="char:EOLhyphen"/>tia, omnium deli<g ref="char:EOLhyphen"/>ctorum veniam con<g ref="char:EOLhyphen"/>sequantur. Per Do<g ref="char:EOLhyphen"/>minum nostrum Je<g ref="char:EOLhyphen"/>sum Christum filium tuum: qui tecum vivit &amp; regnat in saecula saeculorum. Amen.</p>
+               <pb n="96" facs="tcp:199356:55"/>
+               <p>℣. Domine exaudi orationem meam.</p>
+               <p>℟. Et clamor meus ad te veniat.</p>
+               <p>℣. Exaudiat nos o<g ref="char:EOLhyphen"/>mnipotens &amp; mise<g ref="char:EOLhyphen"/>ricors Dominus.</p>
+               <p>℟. Amen.</p>
+               <p>℣. Fidelium animae per misericordiam Dei requiescant in pace.</p>
+               <p>℟. Amen.</p>
+               <p>℣. Divinum auxi<g ref="char:EOLhyphen"/>lium maneat semper nobiscum.</p>
+               <p>℟. Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:199356:55"/>
+         </div>
+      </body>
+   </text>
+</TEI>
